@@ -1,0 +1,923 @@
+﻿Game,Opponent,Opponent Division,Opponent Pitcher,Opponent Pitcher Hand,Home v Away,Stadium,Game Start,Temperature ,Game Conditions,HP Umpire,Inning,At Bat #,Pitch,Pitch Type,Pitch Speed,Times seen pitch in at bat,Times seen pitch in game,pre-pitch balls,pre-pitch strikes,Result,Location,First At Bat,Second At Bat,Third At Bat,Fourth At Bat,Faced Team Before?,AL East?,Faced Pitcher Before?,How Many Times?,40-50 Deg,50-60 Deg,60-70 Deg,70-80 Deg,80+ Deg,Ball In Play,>4 Pitches,>5 Pitches,>6 Pitches,>7 Pitches,CY Young P,2021 All Star P,Late Game,Extra Innings,PP FB,PP Cut,PP Change,PP Curve,PP Slider,PP Sinker,PP Splitter,PP Knuckle Cv
+1,Yankees,AL East,G. Cole,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,2,1,1,Slider,87,0,0,0,0,Swinging strike,,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1,Yankees,AL East,G. Cole,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,2,1,2,Slider,88.1,1,1,0,1,Ball,,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+1,Yankees,AL East,G. Cole,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,2,1,3,Slider,89.5,2,2,1,1,Ball,,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+1,Yankees,AL East,G. Cole,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,2,1,4,Changeup,87.9,0,0,2,1,Swinging strike,,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+1,Yankees,AL East,G. Cole,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,2,1,5,Fastball,97,0,0,2,2,Single,Left field,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1,Yankees,AL East,G. Cole,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,4,2,1,Fastball,95.4,0,1,0,0,Called Strike,,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1,Yankees,AL East,G. Cole,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,4,2,2,Slider,85.9,0,3,0,1,Called Strike,,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1,Yankees,AL East,G. Cole,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,4,2,3,Knuckle Curve,80.5,0,0,0,2,Ball,,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+1,Yankees,AL East,G. Cole,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,4,2,4,Slider,86.6,1,4,1,2,Ball,,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+1,Yankees,AL East,G. Cole,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,4,2,5,Slider,88.2,2,5,2,2,Called Strike Out,,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+1,Yankees,AL East,G. Cole,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,6,3,1,Slider,86.7,0,6,0,0,Home Run,Left field,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+1,Yankees,AL East,D. O'Day,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,9,4,1,Slider,78.6,0,0,0,0,Called Strike,,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+1,Yankees,AL East,D. O'Day,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,9,4,2,Slider,78.2,1,1,0,1,Called Strike,,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+1,Yankees,AL East,D. O'Day,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,9,4,3,Fastball,85.8,0,0,0,2,Foul,,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+1,Yankees,AL East,D. O'Day,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,9,4,4,Slider,77.8,2,2,0,2,Ball,,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+1,Yankees,AL East,D. O'Day,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,9,4,5,Fastball,84,1,1,1,2,Foul,,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+1,Yankees,AL East,D. O'Day,Right,Away,Yankee Stadium,Afternoon,43,Cloudy,M. Carlson,9,4,6,Fastball,84.6,2,2,1,2,Single,Left field,0,0,0,1,0,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+2,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,1,1,1,Curveball,81.8,0,0,0,0,Called Strike,,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,1,1,2,Sinker,90,0,0,0,1,Ball,,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+2,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,1,1,3,Curveball,81.2,1,1,1,1,Ball,,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+2,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,1,1,4,Changeup,84.5,0,0,2,1,Ball,,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+2,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,1,1,5,Cutter,85.7,0,0,3,1,Called Strike,,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+2,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,1,1,6,Curveball,82.3,2,2,3,2,Swinging strike out,,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+2,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,4,2,1,Sinker,89.8,0,1,0,0,Called Strike,,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+2,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,4,2,2,Sinker,89.2,1,2,0,1,Ground out,Left field,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+2,Yankees,AL East,J. Loaisiga,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,5,3,1,Sinker,97.1,0,0,0,0,Foul,,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Yankees,AL East,J. Loaisiga,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,5,3,2,Sinker,96.6,1,1,0,1,Called Strike,,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Yankees,AL East,J. Loaisiga,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,5,3,3,Curveball,86.1,0,0,0,2,Ball,,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Yankees,AL East,J. Loaisiga,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,5,3,4,Sinker,96.2,2,2,1,2,Fly Out,Centre field,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2,Yankees,AL East,D. O'Day,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,8,4,1,Sinker,85.5,0,0,0,0,Ball,,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2,Yankees,AL East,D. O'Day,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,8,4,2,Sinker,84.9,1,1,1,0,Called Strike,,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2,Yankees,AL East,D. O'Day,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,8,4,3,Sinker,84.8,2,2,1,1,Swinging strike,,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2,Yankees,AL East,D. O'Day,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,8,4,4,Slider,77.8,0,0,1,2,Ball,,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2,Yankees,AL East,D. O'Day,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,8,4,5,Slider,78.6,1,1,2,2,Ball,,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+2,Yankees,AL East,D. O'Day,Right,Away,Yankee Stadium,Afternoon,44,Sunny,J. Hoye,8,4,6,Slider,78.3,2,2,3,2,Single,Left field,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+3,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Afternoon,53,Sunny,J. Baker,1,1,1,Curveball,81.1,0,0,0,0,Called Strike,,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Afternoon,53,Sunny,J. Baker,1,1,2,Curveball,80.8,1,1,0,1,Called Strike,,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+3,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Afternoon,53,Sunny,J. Baker,1,1,3,Curveball,82.8,2,2,0,2,Swinging strike out,,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+3,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Afternoon,53,Sunny,J. Baker,3,2,1,Fastball,94.5,0,0,0,0,Ball,,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+3,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Afternoon,53,Sunny,J. Baker,3,2,2,Changeup,86.8,0,0,1,0,Ball,,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+3,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Afternoon,53,Sunny,J. Baker,3,2,3,Fastball,92.9,1,1,2,0,Ball,,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+3,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Afternoon,53,Sunny,J. Baker,3,2,4,Fastball,92.8,2,2,3,0,Foul,,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+3,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Afternoon,53,Sunny,J. Baker,3,2,5,Changeup,85.4,1,1,3,1,Fly Out,Centre field,0,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+3,Yankees,AL East,M. King,Right,Away,Yankee Stadium,Afternoon,53,Sunny,J. Baker,5,3,1,Sinker,92.3,0,0,0,0,Ball,,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+3,Yankees,AL East,M. King,Right,Away,Yankee Stadium,Afternoon,53,Sunny,J. Baker,5,3,2,Sinker,92.8,1,1,1,0,Fly Out,Left field,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,Yankees,AL East,M. King,Right,Away,Yankee Stadium,Afternoon,53,Sunny,J. Baker,8,4,1,Sinker,91.2,0,2,0,0,Called Strike,,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+3,Yankees,AL East,M. King,Right,Away,Yankee Stadium,Afternoon,53,Sunny,J. Baker,8,4,2,Slider,85,0,0,0,1,Called Strike,,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+3,Yankees,AL East,M. King,Right,Away,Yankee Stadium,Afternoon,53,Sunny,J. Baker,8,4,3,Sinker,84.6,1,3,0,2,Called Strike,,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+4,Rangers,AL West,M. Foltynewicz,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,1,1,1,Sinker,95.7,0,0,0,0,Called Strike,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Rangers,AL West,M. Foltynewicz,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,1,1,2,Fastball,95,0,0,0,1,Foul,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+4,Rangers,AL West,M. Foltynewicz,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,1,1,3,Slider,85.3,0,0,0,2,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+4,Rangers,AL West,M. Foltynewicz,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,1,1,4,Slider,84.2,1,1,1,2,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+4,Rangers,AL West,M. Foltynewicz,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,1,1,5,Fastball,95.6,1,1,2,2,Foul,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+4,Rangers,AL West,M. Foltynewicz,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,1,1,6,Slider,84.4,2,2,2,2,Foul,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+4,Rangers,AL West,M. Foltynewicz,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,1,1,7,Slider,83.2,3,3,2,2,Swinging Strike out,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+4,Rangers,AL West,M. Foltynewicz,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,3,2,1,Fastball,93.3,0,2,0,0,Called Strike,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+4,Rangers,AL West,M. Foltynewicz,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,3,2,2,Fastball,92.3,1,3,0,1,Foul,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+4,Rangers,AL West,M. Foltynewicz,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,3,2,3,Slider,83.6,0,4,0,2,Called Strike,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+4,Rangers,AL West,K. Cody,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,6,3,1,Slider,82.5,0,0,0,0,Called Strike,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+4,Rangers,AL West,K. Cody,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,6,3,2,Slider,83.7,1,1,0,1,Swinging strike,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+4,Rangers,AL West,K. Cody,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,6,3,3,Slider,84.3,2,2,0,2,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+4,Rangers,AL West,K. Cody,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,6,3,4,Sinker,96.3,0,0,1,2,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+4,Rangers,AL West,K. Cody,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,6,3,5,Slider,83.3,3,3,2,2,Ground out,Left field,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+4,Rangers,AL West,K. Cody,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,7,4,1,Slider,81.1,0,4,0,0,Foul,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+4,Rangers,AL West,K. Cody,Right,Away,Globe Life Park,Mid-Afternoon,73,Partly Cloudy,J. Visconti,7,4,2,Changeup,84.4,0,0,0,1,Reached on Error,Left field,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+5,Rangers,AL West,D. Dunning,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,1,1,1,Sinker,91.6,0,0,0,0,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Rangers,AL West,D. Dunning,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,1,1,2,Sinker,91.9,1,1,1,0,Foul,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Rangers,AL West,D. Dunning,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,1,1,3,Cutter,87.6,0,0,1,1,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Rangers,AL West,D. Dunning,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,1,1,4,Sinker,91.4,2,2,2,1,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+5,Rangers,AL West,D. Dunning,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,1,1,5,Sinker,89.8,3,3,3,1,Foul,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Rangers,AL West,D. Dunning,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,1,1,6,Cutter,88.2,1,1,3,2,Single,Centre field,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Rangers,AL West,D. Dunning,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,4,2,1,Sinker,90.3,0,4,0,0,Ball,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+5,Rangers,AL West,D. Dunning,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,4,2,2,Sinker,90.8,1,5,1,0,Swinging strike,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Rangers,AL West,D. Dunning,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,4,2,3,Changeup,84.7,0,0,1,1,Ball,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Rangers,AL West,D. Dunning,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,4,2,4,Sinker,91.2,2,6,2,1,Called Strike,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+5,Rangers,AL West,D. Dunning,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,4,2,5,Slider,82.1,0,0,2,2,Swinging strike out,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Rangers,AL West,T. Hearn,Left,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,7,3,1,Fastball,95.1,0,0,0,0,Called Strike,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+5,Rangers,AL West,T. Hearn,Left,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,7,3,2,Fastball,96.8,1,1,0,1,Fly Out,Right field,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+5,Rangers,AL West,M. Bush,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,8,4,1,Fastball,95.3,0,0,0,0,Called Strike,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+5,Rangers,AL West,M. Bush,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,8,4,2,Fastball,94.9,1,1,0,1,Foul,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+5,Rangers,AL West,M. Bush,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,8,4,3,Curveball,77.4,0,0,0,2,Ball,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+5,Rangers,AL West,M. Bush,Right,Away,Globe Life Park,Night,72,Roof Closed,J. Meals,8,4,4,Fastball,95.1,2,2,1,2,Ground out,Left field,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,1,1,1,Sinker,93.9,0,0,0,0,Ground out,Left field,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,4,2,1,Sinker,92.3,0,1,0,0,Swinging strike,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,4,2,2,Slider,82.6,0,0,0,1,Swinging strike,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,4,2,3,Slider,84.4,1,1,0,2,Ball,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,4,2,4,Slider,84.1,2,2,1,2,Foul,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,4,2,5,Fastball,93.6,0,0,1,2,Foul,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,4,2,6,Sinker,93.5,1,2,1,2,Foul,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,4,2,7,Changeup,85.8,0,0,1,2,Foul,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,4,2,8,Slider,84.4,3,3,1,2,Ball,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,4,2,9,Changeup,85.5,1,1,2,2,Swinging strike out,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,6,3,1,Cutter,88.9,0,0,0,0,Called Strike,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,6,3,2,Sinker,92.7,0,3,0,1,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,6,3,3,Slider,83.5,0,3,1,1,Swinging strike,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,6,3,4,Curveball,80.2,0,0,1,2,Foul,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+6,Rangers,AL West,K. Gibson,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,6,3,5,Slider,83.7,1,4,1,2,Called Strike,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+6,Rangers,AL West,M. Bush,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,8,4,1,Slider,84.6,0,0,0,0,Ball,,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+6,Rangers,AL West,M. Bush,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,8,4,2,Fastball,93.5,0,0,1,0,Swinging strike,,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+6,Rangers,AL West,M. Bush,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,8,4,3,Fastball,94.5,1,1,1,1,Swinging strike,,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+6,Rangers,AL West,M. Bush,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,8,4,4,Slider,88.3,1,1,1,2,Ball,,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+6,Rangers,AL West,M. Bush,Right,Away,Globe Life Park,Afternoon,72,Sunny,E. Hockox,8,4,5,Slider,87.6,2,2,2,2,Swinging strike out,,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+7,Angels,AL West,G. Canning,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,1,1,1,Slider,87.5,0,0,0,0,Called Strike,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Angels,AL West,G. Canning,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,1,1,2,Slider,88.5,1,1,0,1,Swinging strike,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,Angels,AL West,G. Canning,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,1,1,3,Slider,88.5,2,2,0,2,Single,Right field,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,Angels,AL West,G. Canning,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,4,2,1,Slider,87.6,0,3,0,0,Ball,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,Angels,AL West,G. Canning,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,4,2,2,Fastball,92.6,0,0,1,0,Foul,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,Angels,AL West,G. Canning,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,4,2,3,Slider,88.5,1,4,1,1,Ball,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+7,Angels,AL West,G. Canning,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,4,2,4,Slider,88.6,2,5,2,1,Swinging strike,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,Angels,AL West,G. Canning,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,4,2,5,Fastball,93.5,1,1,2,2,Ball,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,Angels,AL West,G. Canning,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,4,2,6,Slider,89.3,3,6,3,2,Swinging strike out,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+7,Angels,AL West,A. Slegers,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,6,3,1,Slider,85.9,0,0,0,0,Swinging strike,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,Angels,AL West,A. Slegers,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,6,3,2,Sinker,90.5,0,0,0,1,Ball,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,Angels,AL West,A. Slegers,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,6,3,3,Slider,86.7,1,1,1,1,Swinging strike,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+7,Angels,AL West,A. Slegers,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,6,3,4,Slider,87,2,2,1,2,Called Strike Out,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,Angels,AL West,M. Mayers,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,8,4,1,Slider,79.7,0,0,0,0,Called Strike,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+7,Angels,AL West,M. Mayers,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,8,4,2,Cutter,89.5,0,0,0,1,Swinging Strike,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+7,Angels,AL West,M. Mayers,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,8,4,3,Slider,85,1,1,0,2,Ball,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+7,Angels,AL West,M. Mayers,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,8,4,4,Slider,84.5,2,2,1,2,Foul,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+7,Angels,AL West,M. Mayers,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,8,4,5,Fastball,93.5,0,0,1,2,Swinging strike out,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+7,Angels,AL West,R. Iglesias,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,11,5,1,Slider,82.7,0,0,0,0,Ball,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+7,Angels,AL West,R. Iglesias,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,11,5,2,Slider,81.9,1,1,1,0,Swinging strike,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+7,Angels,AL West,R. Iglesias,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,11,5,3,Fastball,93.9,0,0,1,1,Called Strike,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+7,Angels,AL West,R. Iglesias,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,11,5,4,Slider,83.3,2,2,1,2,Foul,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+7,Angels,AL West,R. Iglesias,Right,Home,TD Ballpark,Night,80,Clear,E. Bacchus,11,5,5,Changeup,87.1,0,0,1,2,Called Strike Out,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+8,Braves,NL East,D. Smyly,Left,Home,TD Ballpark,Night,78,Clear,Q. Wolcott,1,1,1,Curveball,78.7,0,0,0,0,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Braves,NL East,D. Smyly,Left,Home,TD Ballpark,Night,78,Clear,Q. Wolcott,1,1,2,Fastball,94.3,0,0,1,0,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+8,Braves,NL East,D. Smyly,Left,Home,TD Ballpark,Night,78,Clear,Q. Wolcott,1,1,3,Fastball,93.6,1,1,2,0,Fly Out,Centre field,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+8,Braves,NL East,D. Smyly,Left,Home,TD Ballpark,Night,78,Clear,Q. Wolcott,3,2,1,Fastball,92.5,0,2,0,0,Foul,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+8,Braves,NL East,D. Smyly,Left,Home,TD Ballpark,Night,78,Clear,Q. Wolcott,3,2,2,Fastball,92.2,1,3,0,1,Single,Centre field,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+8,Braves,NL East,J. Webb,Right,Home,TD Ballpark,Night,78,Clear,Q. Wolcott,6,3,1,Fastball,94.5,0,0,0,0,Home Run,Centre field,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+8,Braves,NL East,S. Newcomb,Left,Home,TD Ballpark,Night,78,Clear,Q. Wolcott,7,4,1,Cutter,87.4,0,0,0,0,Ball,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+8,Braves,NL East,S. Newcomb,Left,Home,TD Ballpark,Night,78,Clear,Q. Wolcott,7,4,2,Cutter,87.1,1,1,1,0,Ball,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+8,Braves,NL East,S. Newcomb,Left,Home,TD Ballpark,Night,78,Clear,Q. Wolcott,7,4,3,Fastball,95.7,0,0,2,0,Foul,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+8,Braves,NL East,S. Newcomb,Left,Home,TD Ballpark,Night,78,Clear,Q. Wolcott,7,4,4,Fastball,94.5,1,1,2,1,Foul,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+8,Braves,NL East,S. Newcomb,Left,Home,TD Ballpark,Night,78,Clear,Q. Wolcott,7,4,5,Fastball,94.4,2,2,2,2,Foul,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+8,Braves,NL East,S. Newcomb,Left,Home,TD Ballpark,Night,78,Clear,Q. Wolcott,7,4,6,Curveball,77.7,0,0,2,2,Swinging strike out,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,1,1,1,Curveball,78.5,0,0,0,0,Foul,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,1,1,2,Curveball,79.6,1,1,0,1,Ball,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,1,1,3,Curveball,79.2,2,2,1,1,bALL,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,1,1,4,Fastball,95.1,0,0,2,1,Ball,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,1,1,5,Sinker,94.5,0,0,3,1,Single,Right field,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,3,2,1,Cutter,86.4,0,0,0,0,Foul,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,3,2,2,Cutter,86,1,1,0,1,Called strike,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,3,2,3,Curveball,79.3,0,3,0,2,Ball,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,3,2,4,Curveball,79.4,1,4,1,2,Ball,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,3,2,5,Cutter,85.7,2,2,2,2,Swinging strike out,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,6,3,1,Sinker,92,0,1,0,0,Called Strike,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,6,3,2,Sinker,93.1,1,2,0,2,Foul,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,6,3,3,Fastball,94.2,0,1,0,2,Ball,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,6,3,4,Curveball,79.9,0,5,1,2,Foul,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,6,3,5,Fastball,94.9,1,2,1,2,Ball,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,6,3,6,Sinker,93.1,2,3,2,2,Ball,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+9,Braves,NL East,C. Morton,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,6,3,7,Curveball,78.5,1,6,3,2,Walk,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Braves,NL East,A. Minter,Left,Home,TD Ballpark,Night,82,Clear,V. Carapazza,8,4,1,Cutter,88.5,0,0,0,0,Ball,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+9,Braves,NL East,A. Minter,Left,Home,TD Ballpark,Night,82,Clear,V. Carapazza,8,4,2,Cutter,87.8,1,1,1,0,Ball,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+9,Braves,NL East,A. Minter,Left,Home,TD Ballpark,Night,82,Clear,V. Carapazza,8,4,3,Fastball,96.4,0,0,2,0,Called Strike,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+9,Braves,NL East,A. Minter,Left,Home,TD Ballpark,Night,82,Clear,V. Carapazza,8,4,4,Fastball,96.6,1,1,2,1,Line out,Right field,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+9,Braves,NL East,N. Jones,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,10,5,1,Slider,86.2,0,0,0,0,Ball,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+9,Braves,NL East,N. Jones,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,10,5,2,Slider,85.6,1,1,1,0,Swinging strike,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+9,Braves,NL East,N. Jones,Right,Home,TD Ballpark,Night,82,Clear,V. Carapazza,10,5,3,Slider,87.8,2,2,1,1,Ground out,Left field,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+10,Braves,NL East,I. Anderson,Right,Home,TD Ballpark,Afternoon,87,Sunny,P. Clemons,1,1,1,Curveball,81.8,0,0,0,0,Ball,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Braves,NL East,I. Anderson,Right,Home,TD Ballpark,Afternoon,87,Sunny,P. Clemons,1,1,2,Fastball,94.9,0,0,1,0,Line out,Centre field,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+10,Braves,NL East,I. Anderson,Right,Home,TD Ballpark,Afternoon,87,Sunny,P. Clemons,3,2,1,Changeup,88.1,0,0,0,0,Ball,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+10,Braves,NL East,I. Anderson,Right,Home,TD Ballpark,Afternoon,87,Sunny,P. Clemons,3,2,2,Fastball,96,0,1,1,0,Ball,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+10,Braves,NL East,I. Anderson,Right,Home,TD Ballpark,Afternoon,87,Sunny,P. Clemons,3,2,3,Changeup,88.6,1,1,2,0,Swinging strike,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+10,Braves,NL East,I. Anderson,Right,Home,TD Ballpark,Afternoon,87,Sunny,P. Clemons,3,2,4,Changeup,88.7,2,2,2,1,Line out,Centre field,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+10,Braves,NL East,J. Tomlin,Right,Home,TD Ballpark,Afternoon,87,Sunny,P. Clemons,5,3,1,Cutter,83.7,0,0,0,0,Single,Centre field,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+10,Braves,NL East,J. Tomlin,Right,Home,TD Ballpark,Afternoon,87,Sunny,P. Clemons,7,4,1,Curveball,76.3,0,0,0,0,Foul,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+10,Braves,NL East,J. Tomlin,Right,Home,TD Ballpark,Afternoon,87,Sunny,P. Clemons,7,4,2,Cutter,86.9,0,1,0,1,Fly Out,Left field,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+11,Athletics,AL West,F. Montas,Right,Away,RingCentral Coliseum,Night-West,75,Clear,B. Miller,2,1,1,Sinker,95.2,0,0,0,0,Fly Out,Right field,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Athletics,AL West,F. Montas,Right,Away,RingCentral Coliseum,Night-West,75,Clear,B. Miller,3,2,1,Splitter,86.9,0,0,0,0,Single,Left field,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+11,Athletics,AL West,F. Montas,Right,Away,RingCentral Coliseum,Night-West,75,Clear,B. Miller,5,3,1,Fastball,96.2,0,0,0,0,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+11,Athletics,AL West,F. Montas,Right,Away,RingCentral Coliseum,Night-West,75,Clear,B. Miller,5,3,2,Slider,86.5,0,0,1,0,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11,Athletics,AL West,F. Montas,Right,Away,RingCentral Coliseum,Night-West,75,Clear,B. Miller,5,3,3,Slider,86.5,1,1,2,0,Line out,Right field,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+11,Athletics,AL West,L. Trivino,Right,Away,RingCentral Coliseum,Night-West,75,Clear,B. Miller,8,4,1,Sinker,97.5,0,0,0,0,Called Strike,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+11,Athletics,AL West,L. Trivino,Right,Away,RingCentral Coliseum,Night-West,75,Clear,B. Miller,8,4,2,Cutter,94.5,0,0,0,1,Foul,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+11,Athletics,AL West,L. Trivino,Right,Away,RingCentral Coliseum,Night-West,75,Clear,B. Miller,8,4,3,Curveball,80,0,0,0,2,Ball,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+11,Athletics,AL West,L. Trivino,Right,Away,RingCentral Coliseum,Night-West,75,Clear,B. Miller,8,4,4,Fastball,96.6,0,0,1,2,Swinging strike out,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+12,Athletics,AL West,C. Irvin,Left,Away,RingCentral Coliseum,Night-West,70,Clear,D. Eddings,2,1,1,Slider,80.4,0,0,0,0,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,Athletics,AL West,C. Irvin,Left,Away,RingCentral Coliseum,Night-West,70,Clear,D. Eddings,2,1,2,Slider,79.7,1,1,1,0,Fly Out,Right field,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+12,Athletics,AL West,C. Irvin,Left,Away,RingCentral Coliseum,Night-West,70,Clear,D. Eddings,5,2,1,Fastball,90.6,0,0,0,0,Line out,Centre field,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+12,Athletics,AL West,C. Irvin,Left,Away,RingCentral Coliseum,Night-West,70,Clear,D. Eddings,7,3,1,Slider,83.3,0,2,0,0,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+12,Athletics,AL West,C. Irvin,Left,Away,RingCentral Coliseum,Night-West,70,Clear,D. Eddings,7,3,2,Changeup,84,0,0,1,0,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+12,Athletics,AL West,C. Irvin,Left,Away,RingCentral Coliseum,Night-West,70,Clear,D. Eddings,7,3,3,Changeup,83.7,1,1,2,0,Foul,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+12,Athletics,AL West,C. Irvin,Left,Away,RingCentral Coliseum,Night-West,70,Clear,D. Eddings,7,3,4,Fastball,93.2,0,1,2,1,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+12,Athletics,AL West,C. Irvin,Left,Away,RingCentral Coliseum,Night-West,70,Clear,D. Eddings,7,3,5,Sinker,91.9,0,0,3,1,Walk,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+13,Athletics,AL West,C. Bassitt,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,1,1,1,Sinker,93.1,0,0,0,0,Ball,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+13,Athletics,AL West,C. Bassitt,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,1,1,2,Cutter,88,0,0,1,0,Ball,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+13,Athletics,AL West,C. Bassitt,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,1,1,3,Sinker,93.1,1,1,2,0,Single,Right field,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+13,Athletics,AL West,C. Bassitt,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,3,2,1,Sinker,92.9,0,2,0,0,Foul,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+13,Athletics,AL West,C. Bassitt,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,3,2,2,Slider,74.7,0,0,0,1,Ball,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+13,Athletics,AL West,C. Bassitt,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,3,2,3,Sinker,92.7,1,3,1,1,Ball,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+13,Athletics,AL West,C. Bassitt,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,3,2,4,Sinker,93.6,2,4,2,1,Ground out,Left field,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+13,Athletics,AL West,C. Bassitt,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,6,3,1,Cutter,89,0,1,0,0,Swinging strike,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+13,Athletics,AL West,C. Bassitt,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,6,3,2,Changeup,85.2,0,0,0,1,Ball,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+13,Athletics,AL West,C. Bassitt,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,6,3,3,Cutter,88.8,1,2,1,1,Foul,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+13,Athletics,AL West,C. Bassitt,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,6,3,4,Slider,75.3,0,1,1,2,Swinging strike out,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+13,Athletics,AL West,L. Trivino,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,8,4,1,Fastball,94.4,0,0,0,0,Ball,,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+13,Athletics,AL West,L. Trivino,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,8,4,2,Fastball,95.2,1,1,1,0,Foul,,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+13,Athletics,AL West,L. Trivino,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,8,4,3,Curveball,77.7,0,0,1,1,Ball,,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+13,Athletics,AL West,L. Trivino,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,8,4,4,Fastball,95.4,2,2,2,1,Single,Left field,0,0,0,1,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+13,Athletics,AL West,J. Weems,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,9,5,1,Fastball,95.5,0,0,0,0,Ball,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+13,Athletics,AL West,J. Weems,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,9,5,2,Slider,86,0,0,1,0,Swinging strike,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+13,Athletics,AL West,J. Weems,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,9,5,3,Slider,86.2,1,1,1,1,Ball,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+13,Athletics,AL West,J. Weems,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,9,5,4,Fastball,95.5,1,1,2,1,Ball,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+13,Athletics,AL West,J. Weems,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,9,5,5,Fastball,94,2,2,3,1,Foul,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+13,Athletics,AL West,J. Weems,Right,Away,RingCentral Coliseum,Night-West,64,Clear,B. Knight,9,5,6,Fastball,93,3,3,3,2,Called Strike Out,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+14,Athletics,AL West,M. Fiers,Right,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,1,1,1,Fastball,87.9,0,0,0,0,Ball,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,Athletics,AL West,M. Fiers,Right,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,1,1,2,Slider,84.8,0,0,1,0,Foul,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+14,Athletics,AL West,M. Fiers,Right,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,1,1,3,Sinker,86.9,0,0,1,1,Fly Out,Right field,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+14,Athletics,AL West,M. Fiers,Right,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,3,2,1,Slider,84.6,0,1,0,0,Ball,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+14,Athletics,AL West,M. Fiers,Right,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,3,2,2,Sinker,88.4,0,1,1,0,Ball,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+14,Athletics,AL West,M. Fiers,Right,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,3,2,3,Sinker,87.9,1,2,2,0,Ball,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+14,Athletics,AL West,M. Fiers,Right,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,3,2,4,Sinker,86.2,2,3,3,0,Walk,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+14,Athletics,AL West,D. Guerra,Right,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,4,3,1,Fastball,91,0,0,0,0,Called Strike,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+14,Athletics,AL West,D. Guerra,Right,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,4,3,2,Fastball,90.9,1,1,0,1,Ball,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+14,Athletics,AL West,D. Guerra,Right,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,4,3,3,Slider,83.9,0,0,1,1,Ball,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+14,Athletics,AL West,D. Guerra,Right,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,4,3,4,Fastball,91.1,2,2,2,1,Foul,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+14,Athletics,AL West,D. Guerra,Right,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,4,3,5,Curveball,76,0,0,2,2,Ball,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+14,Athletics,AL West,D. Guerra,Right,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,4,3,6,Changeup,82,0,0,3,2,Walk,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+14,Athletics,AL West,S. Romo,Right,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,6,4,1,Slider,79.9,0,0,0,0,Single,Centre field,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+14,Athletics,AL West,R. Guduan,Left,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,8,5,1,Fastball,95.5,0,0,0,0,Ball,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+14,Athletics,AL West,R. Guduan,Left,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,8,5,2,Fastball,92.8,1,1,1,0,Ball,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+14,Athletics,AL West,R. Guduan,Left,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,8,5,3,Fastball,95.7,2,2,2,0,Called strike,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+14,Athletics,AL West,R. Guduan,Left,Away,RingCentral Coliseum,Afternoon-West,63,Sunny,G. Morales,8,5,4,Fastball,94.9,3,3,2,1,Ground out,Left field,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+15,Astros,AL West,J. Urquidy,Right,Away,Minute Maid Park,Night,82,Partly Cloudy,A. Fletcher,1,1,1,Changeup,85.3,0,0,0,0,Swinging strike,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Astros,AL West,J. Urquidy,Right,Away,Minute Maid Park,Night,82,Partly Cloudy,A. Fletcher,1,1,2,Changeup,85.8,1,1,0,1,Ball,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+15,Astros,AL West,J. Urquidy,Right,Away,Minute Maid Park,Night,82,Partly Cloudy,A. Fletcher,1,1,3,Changeup,85.3,2,2,1,1,Swinging strike,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+15,Astros,AL West,J. Urquidy,Right,Away,Minute Maid Park,Night,82,Partly Cloudy,A. Fletcher,1,1,4,Fastball,94.3,0,0,1,2,Line out,Left field,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+15,Astros,AL West,J. Urquidy,Right,Away,Minute Maid Park,Night,82,Partly Cloudy,A. Fletcher,4,2,1,Fastball,91.7,0,1,0,0,Called strike,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+15,Astros,AL West,J. Urquidy,Right,Away,Minute Maid Park,Night,82,Partly Cloudy,A. Fletcher,4,2,2,Fastball,92.8,1,2,0,1,Foul,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+15,Astros,AL West,J. Urquidy,Right,Away,Minute Maid Park,Night,82,Partly Cloudy,A. Fletcher,4,2,3,Slider,80.4,0,0,0,2,bALL,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+15,Astros,AL West,J. Urquidy,Right,Away,Minute Maid Park,Night,82,Partly Cloudy,A. Fletcher,4,2,4,Slider,78.8,1,1,1,2,Ball,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+15,Astros,AL West,J. Urquidy,Right,Away,Minute Maid Park,Night,82,Partly Cloudy,A. Fletcher,4,2,5,Changeup,85.5,0,3,2,2,Fly Out,Right field,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+15,Astros,AL West,J. Urquidy,Right,Away,Minute Maid Park,Night,82,Partly Cloudy,A. Fletcher,6,3,1,Fastball,94.8,0,3,0,0,Ball,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+15,Astros,AL West,J. Urquidy,Right,Away,Minute Maid Park,Night,82,Partly Cloudy,A. Fletcher,6,3,2,Fastball,94,1,4,1,0,Foul,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+15,Astros,AL West,J. Urquidy,Right,Away,Minute Maid Park,Night,82,Partly Cloudy,A. Fletcher,6,3,3,Changeup,85.2,0,4,1,1,Line out,Centre field,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+15,Astros,AL West,K. Emanuel,Left,Away,Minute Maid Park,Night,82,Partly Cloudy,A. Fletcher,9,4,1,Slider,76.6,0,2,0,0,Ball,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+15,Astros,AL West,K. Emanuel,Left,Away,Minute Maid Park,Night,82,Partly Cloudy,A. Fletcher,9,4,2,Sinker,90.7,0,0,1,0,Home Run,Right field,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+16,Astros,AL West,C. Javier,Right,Away,Minute Maid Park,Night,82,Cloudy,J. Navas,2,1,1,Fastball,93.6,0,0,0,0,Fly Out,Left field,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,Astros,AL West,C. Javier,Right,Away,Minute Maid Park,Night,82,Cloudy,J. Navas,3,2,1,Slider,80.7,0,0,0,0,Called strike,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+16,Astros,AL West,C. Javier,Right,Away,Minute Maid Park,Night,82,Cloudy,J. Navas,3,2,2,Slider,80.2,1,1,0,1,Fly Out,Centre field,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+16,Astros,AL West,C. Javier,Right,Away,Minute Maid Park,Night,82,Cloudy,J. Navas,5,3,1,Fastball,93.8,0,1,0,0,Called strike,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+16,Astros,AL West,C. Javier,Right,Away,Minute Maid Park,Night,82,Cloudy,J. Navas,5,3,2,Fastball,94.2,1,2,0,1,Fly Out,Right field,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+16,Astros,AL West,B. Abreu,Right,Away,Minute Maid Park,Night,82,Cloudy,J. Navas,8,4,1,Slider,90.1,0,0,0,0,Ball,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+16,Astros,AL West,B. Abreu,Right,Away,Minute Maid Park,Night,82,Cloudy,J. Navas,8,4,2,Slider,90.3,1,1,1,0,Ball,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+16,Astros,AL West,B. Abreu,Right,Away,Minute Maid Park,Night,82,Cloudy,J. Navas,8,4,3,Fastball,95.8,0,0,2,0,Foul,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+16,Astros,AL West,B. Abreu,Right,Away,Minute Maid Park,Night,82,Cloudy,J. Navas,8,4,4,Sinker,96.5,0,0,2,1,Foul,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+16,Astros,AL West,B. Abreu,Right,Away,Minute Maid Park,Night,82,Cloudy,J. Navas,8,4,5,Slider,90.8,2,2,2,2,Swinging strike out,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+17,Astros,AL West,Z. Greinke,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,2,1,1,Curveball,70.5,0,0,0,0,Called Strike,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+17,Astros,AL West,Z. Greinke,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,2,1,2,Sinker,88.7,0,0,0,1,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+17,Astros,AL West,Z. Greinke,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,2,1,3,Fastball,88,0,0,1,1,Foul,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+17,Astros,AL West,Z. Greinke,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,2,1,4,Changeup,85.5,0,0,1,2,Foul,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+17,Astros,AL West,Z. Greinke,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,2,1,5,Changeup,86.5,1,1,1,2,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+17,Astros,AL West,Z. Greinke,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,2,1,6,Fastball,90,1,1,2,2,Double,Centre field,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+17,Astros,AL West,Z. Greinke,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,4,2,1,Fastball,88.2,0,2,0,0,Ball,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+17,Astros,AL West,Z. Greinke,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,4,2,2,Sinker,88.8,0,1,1,0,Single,Left field,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+17,Astros,AL West,B. Abreu,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,5,3,1,Fastball,92.7,0,0,0,0,Ball,,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+17,Astros,AL West,B. Abreu,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,5,3,2,Slider,87.1,0,0,1,0,Swinging strike,,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+17,Astros,AL West,B. Abreu,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,5,3,3,Slider,87.6,1,1,1,1,Called Strike,,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+17,Astros,AL West,B. Abreu,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,5,3,4,Curveball,87.6,0,0,1,2,Foul,,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+17,Astros,AL West,B. Abreu,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,5,3,5,Fastball,94.2,1,1,1,2,Fly Out,Centre field,0,0,1,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+17,Astros,AL West,A. Scrubb,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,8,4,1,Cutter,93,0,0,0,0,Foul,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+17,Astros,AL West,A. Scrubb,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,8,4,2,Slider,88.4,0,0,0,1,Swinging strike,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+17,Astros,AL West,A. Scrubb,Right,Away,Minute Maid Park,Afternoon,73,Roof Closed,J. Rehak,8,4,3,Knuckle Curve,80.3,0,0,0,2,Called Strike out,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+18,Braves,NL East,B. Wilson,Right,Away,Truist Park,Night,68,Overcast,D. Iassogna,2,1,1,Sinker,91.4,0,0,0,0,Ball,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Braves,NL East,B. Wilson,Right,Away,Truist Park,Night,68,Overcast,D. Iassogna,2,1,2,Fastball,93.2,0,0,1,0,Single,Right field,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+18,Braves,NL East,B. Wilson,Right,Away,Truist Park,Night,68,Overcast,D. Iassogna,4,2,1,Sinker,93.5,0,1,0,0,Foul,,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+18,Braves,NL East,B. Wilson,Right,Away,Truist Park,Night,68,Overcast,D. Iassogna,4,2,2,Slider,85.3,0,0,0,1,Line out,Left field,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+18,Braves,NL East,B. Wilson,Right,Away,Truist Park,Night,68,Overcast,D. Iassogna,6,3,1,Sinker,94,0,2,0,0,Foul,,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+18,Braves,NL East,B. Wilson,Right,Away,Truist Park,Night,68,Overcast,D. Iassogna,6,3,2,Slider,85.7,0,1,0,1,Single,Right field,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+18,Braves,NL East,J. Webb,Right,Away,Truist Park,Night,68,Overcast,D. Iassogna,8,4,1,Fastball,93.8,0,0,0,0,Ball,,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+18,Braves,NL East,J. Webb,Right,Away,Truist Park,Night,68,Overcast,D. Iassogna,8,4,2,Changeup,82.4,0,0,1,0,Swinging strike,,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+18,Braves,NL East,J. Webb,Right,Away,Truist Park,Night,68,Overcast,D. Iassogna,8,4,3,Changeup,82.6,1,1,1,1,Foul,,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+18,Braves,NL East,J. Webb,Right,Away,Truist Park,Night,68,Overcast,D. Iassogna,8,4,4,Changeup,83.2,2,2,1,2,Foul,,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+18,Braves,NL East,J. Webb,Right,Away,Truist Park,Night,68,Overcast,D. Iassogna,8,4,5,Changeup,82.6,3,3,1,2,Single,Right field,0,0,0,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+19,Braves,NL East,M. Fried,Left,Away,Truist Park,Night,52,Overcast,A. Fletcher,2,1,1,Sinker,90.9,0,0,0,0,Ball,,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,Braves,NL East,M. Fried,Left,Away,Truist Park,Night,52,Overcast,A. Fletcher,2,1,2,Sinker,90.8,1,1,1,0,Ball,,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+19,Braves,NL East,M. Fried,Left,Away,Truist Park,Night,52,Overcast,A. Fletcher,2,1,3,Fastball,92.8,0,0,2,0,Ball,,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+19,Braves,NL East,M. Fried,Left,Away,Truist Park,Night,52,Overcast,A. Fletcher,2,1,4,Fastball,92.3,1,1,3,0,Called Strike,,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+19,Braves,NL East,M. Fried,Left,Away,Truist Park,Night,52,Overcast,A. Fletcher,2,1,5,Fastball,92.6,2,2,3,1,Walk,,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+19,Braves,NL East,M. Fried,Left,Away,Truist Park,Night,52,Overcast,A. Fletcher,5,2,1,Curveball,72.5,0,0,0,0,Ball,,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+19,Braves,NL East,M. Fried,Left,Away,Truist Park,Night,52,Overcast,A. Fletcher,5,2,2,Curveball,74.3,1,1,1,0,Called Strike,,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+19,Braves,NL East,M. Fried,Left,Away,Truist Park,Night,52,Overcast,A. Fletcher,5,2,3,Fastball,91.8,0,3,1,1,Foul,,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+19,Braves,NL East,M. Fried,Left,Away,Truist Park,Night,52,Overcast,A. Fletcher,5,2,4,Slider,83.3,0,0,1,2,Foul,,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+19,Braves,NL East,M. Fried,Left,Away,Truist Park,Night,52,Overcast,A. Fletcher,5,2,5,Fastball,94,1,4,1,2,Ground out,Right field,0,1,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+19,Braves,NL East,L. Jackson,Right,Away,Truist Park,Night,52,Overcast,A. Fletcher,7,3,1,Fastball,95.8,0,0,0,0,Home Run,Centre field,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+19,Braves,NL East,J. Tomlin,Right,Away,Truist Park,Night,52,Overcast,A. Fletcher,9,4,1,Curveball,76.6,0,0,0,0,Ball,,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+19,Braves,NL East,J. Tomlin,Right,Away,Truist Park,Night,52,Overcast,A. Fletcher,9,4,2,Cutter,85.5,0,0,1,0,Foul,,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+19,Braves,NL East,J. Tomlin,Right,Away,Truist Park,Night,52,Overcast,A. Fletcher,9,4,3,Cutter,84.5,1,1,1,1,Home Run,Centre field,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+20,Braves,NL East,C. Morton,Right,Away,Truist Park,Afternoon,61,Sunny,S. Barry,2,1,1,Curveball,77.8,0,0,0,0,Ground out,Left field,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,Braves,NL East,C. Morton,Right,Away,Truist Park,Afternoon,61,Sunny,S. Barry,3,2,1,Curveball,79,0,1,0,0,Ball,,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+20,Braves,NL East,C. Morton,Right,Away,Truist Park,Afternoon,61,Sunny,S. Barry,3,2,2,Cutter,85.8,0,0,1,0,Swinging strike,,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+20,Braves,NL East,C. Morton,Right,Away,Truist Park,Afternoon,61,Sunny,S. Barry,3,2,3,Fastball,95.2,0,0,1,1,Ball,,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+20,Braves,NL East,C. Morton,Right,Away,Truist Park,Afternoon,61,Sunny,S. Barry,3,2,4,Curveball,80.2,1,2,2,1,Called Strike,,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+20,Braves,NL East,C. Morton,Right,Away,Truist Park,Afternoon,61,Sunny,S. Barry,3,2,5,Fastball,95.2,1,1,2,2,Ball,,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+20,Braves,NL East,C. Morton,Right,Away,Truist Park,Afternoon,61,Sunny,S. Barry,3,2,6,Curveball,80.2,2,3,3,2,Fly Out,Right field,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+20,Braves,NL East,C. Morton,Right,Away,Truist Park,Afternoon,61,Sunny,S. Barry,5,3,1,Cutter,88.2,0,1,0,0,Ball,,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+20,Braves,NL East,C. Morton,Right,Away,Truist Park,Afternoon,61,Sunny,S. Barry,5,3,2,Fastball,94.9,0,2,1,0,Foul,,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+20,Braves,NL East,C. Morton,Right,Away,Truist Park,Afternoon,61,Sunny,S. Barry,5,3,3,Cutter,87.3,1,2,1,1,Single,,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+20,Braves,NL East,A. Minter,Left,Away,Truist Park,Afternoon,61,Sunny,S. Barry,8,4,1,Fastball,96.7,0,0,0,0,Ball,,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+20,Braves,NL East,A. Minter,Left,Away,Truist Park,Afternoon,61,Sunny,S. Barry,8,4,2,Fastball,96,1,1,1,0,Ball,,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+20,Braves,NL East,A. Minter,Left,Away,Truist Park,Afternoon,61,Sunny,S. Barry,8,4,3,Fastball,96.7,2,2,2,0,Ball,,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+20,Braves,NL East,A. Minter,Left,Away,Truist Park,Afternoon,61,Sunny,S. Barry,8,4,4,Fastball,96.5,3,3,3,0,Foul,,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+20,Braves,NL East,A. Minter,Left,Away,Truist Park,Afternoon,61,Sunny,S. Barry,8,4,5,Cutter,88.3,0,0,3,1,Walk,,0,0,0,1,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+20,Braves,NL East,W. Smith,Left,Away,Truist Park,Afternoon,61,Sunny,S. Barry,9,5,1,Curveball,77,0,0,0,0,Ball,,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+20,Braves,NL East,W. Smith,Left,Away,Truist Park,Afternoon,61,Sunny,S. Barry,9,5,2,Curveball,76.3,1,1,1,0,Single,Right field,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+21,Phillies,NL East,V. Velasquez,Right,Home,Citizens Bank Park,Night,83,Clear,M. Estabrooks,1,1,1,Fastball,93.5,0,0,0,0,Swinging strike,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Phillies,NL East,V. Velasquez,Right,Home,Citizens Bank Park,Night,83,Clear,M. Estabrooks,1,1,2,Fastball,93.7,1,1,0,1,Foul,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+21,Phillies,NL East,V. Velasquez,Right,Home,Citizens Bank Park,Night,83,Clear,M. Estabrooks,1,1,3,Fastball,94.6,2,2,0,2,Ball,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+21,Phillies,NL East,V. Velasquez,Right,Home,Citizens Bank Park,Night,83,Clear,M. Estabrooks,1,1,4,Changeup,90.3,0,0,1,2,Swinging strike out,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+21,Phillies,NL East,V. Velasquez,Right,Home,Citizens Bank Park,Night,83,Clear,M. Estabrooks,3,2,1,Fastball,93,0,3,0,0,Swinging strike,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+21,Phillies,NL East,V. Velasquez,Right,Home,Citizens Bank Park,Night,83,Clear,M. Estabrooks,3,2,2,Changeup,88.4,0,1,0,1,Foul,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+21,Phillies,NL East,V. Velasquez,Right,Home,Citizens Bank Park,Night,83,Clear,M. Estabrooks,3,2,3,Fastball,95.7,1,4,0,2,Foul,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+21,Phillies,NL East,V. Velasquez,Right,Home,Citizens Bank Park,Night,83,Clear,M. Estabrooks,3,2,4,Fastball,95,2,5,0,2,Swinging strike out,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+21,Phillies,NL East,V. Velasquez,Right,Home,Citizens Bank Park,Night,83,Clear,M. Estabrooks,6,3,1,Fastball,95,0,6,0,0,Fly Out,Centre field,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+21,Phillies,NL East,J. Alvarado,Left,Home,Citizens Bank Park,Night,83,Clear,M. Estabrooks,8,4,1,Sinker,99.8,0,0,0,0,Foul,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+21,Phillies,NL East,J. Alvarado,Left,Home,Citizens Bank Park,Night,83,Clear,M. Estabrooks,8,4,2,Sinker,99.2,1,1,0,1,Ball,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+21,Phillies,NL East,J. Alvarado,Left,Home,Citizens Bank Park,Night,83,Clear,M. Estabrooks,8,4,3,Sinker,99.9,2,2,1,1,Line out,Centre field,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+22,Phillies,NL East,A. Nola,Right,Home,Citizens Bank Park,Night,81,Clear,D. Iassogna,1,1,1,Knuckle Curve,77.2,0,0,0,0,Ball,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Phillies,NL East,A. Nola,Right,Home,Citizens Bank Park,Night,81,Clear,D. Iassogna,1,1,2,Knuckle Curve,77.6,1,1,1,0,Ball,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+22,Phillies,NL East,A. Nola,Right,Home,Citizens Bank Park,Night,81,Clear,D. Iassogna,1,1,3,Changeup,85.8,0,0,2,0,Swinging strike,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+22,Phillies,NL East,A. Nola,Right,Home,Citizens Bank Park,Night,81,Clear,D. Iassogna,1,1,4,Fastball,94.7,0,0,2,1,Ball,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+22,Phillies,NL East,A. Nola,Right,Home,Citizens Bank Park,Night,81,Clear,D. Iassogna,1,1,5,Changeup,86.3,1,1,3,1,Walk,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+22,Phillies,NL East,A. Nola,Right,Home,Citizens Bank Park,Night,81,Clear,D. Iassogna,3,2,1,Changeup,84,0,2,0,0,Fly Out,Left field,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+22,Phillies,NL East,A. Nola,Right,Home,Citizens Bank Park,Night,81,Clear,D. Iassogna,5,3,1,Fastball,93,0,1,0,0,Called strike,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+22,Phillies,NL East,A. Nola,Right,Home,Citizens Bank Park,Night,81,Clear,D. Iassogna,5,3,2,Fastball,93.8,1,2,0,1,Ball,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+22,Phillies,NL East,A. Nola,Right,Home,Citizens Bank Park,Night,81,Clear,D. Iassogna,5,3,3,Changeup,85,0,3,1,1,Single,Left field,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+22,Phillies,NL East,M. Moore,Left,Home,Citizens Bank Park,Night,81,Clear,D. Iassogna,8,4,1,Fastball,92.2,0,0,0,0,Called strike,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+22,Phillies,NL East,M. Moore,Left,Home,Citizens Bank Park,Night,81,Clear,D. Iassogna,8,4,2,Changeup,83.9,0,0,0,1,Swinging strike,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+22,Phillies,NL East,M. Moore,Left,Home,Citizens Bank Park,Night,81,Clear,D. Iassogna,8,4,3,Fastball,92.9,1,1,0,2,Called Strike out,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,,84,Sunny,A. Fletcher,1,1,1,Cutter,85.1,0,0,0,0,Ball,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,1,1,2,Cutter,85.8,1,1,0,1,Foul,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,1,1,3,Fastball,91.8,0,0,1,1,Ball,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,1,1,4,Changeup,83.1,0,0,2,1,Ball,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,1,1,5,Changeup,82.6,1,1,3,1,Fly Out,Centre field,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,2,2,1,Fastball,91.5,0,1,0,0,Ball,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,2,2,2,Fastball,92.3,1,2,1,0,Swinging strike,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,2,2,3,Fastball,92.4,2,3,1,1,Foul,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,2,2,4,Changeup,84,0,2,1,2,Foul,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,2,2,5,Fastball,92.9,3,4,1,2,Foul,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,2,2,6,Cutter,87.2,0,2,1,2,Ball,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,2,2,7,Cutter,85.1,1,3,2,2,Foul,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,2,2,8,Fastball,92.4,4,5,2,2,Foul,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,2,2,9,Curveball,77.7,0,0,2,2,Foul,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,2,2,10,Fastball,92.3,5,6,2,2,Foul,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,2,2,11,Fastball,92.3,6,7,2,2,Ball,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+23,Phillies,NL East,C. Anderson,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,2,2,12,Changeup,83.3,1,3,3,2,Ball,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+23,Phillies,NL East,D. Hale,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,4,3,1,Fastball,92.4,0,0,0,0,Ball,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+23,Phillies,NL East,D. Hale,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,4,3,2,Fastball,92.2,1,1,1,0,Called Strike,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+23,Phillies,NL East,D. Hale,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,4,3,3,Changeup,81.4,0,0,1,1,Ground out,Centre field,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+23,Phillies,NL East,R. Suarez,Left,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,6,4,1,Changeup,86.4,0,0,0,0,Ball,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+23,Phillies,NL East,R. Suarez,Left,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,6,4,2,Changeup,83.4,1,1,1,0,Ball,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+23,Phillies,NL East,R. Suarez,Left,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,6,4,3,Sinker,93.1,0,0,2,0,Double,Right field,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+23,Phillies,NL East,B. Kintzler,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,8,5,1,Sinker,91.6,0,0,0,0,Foul,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+23,Phillies,NL East,B. Kintzler,Right,Home,Citizens Bank Park,Afternoon,84,Sunny,A. Fletcher,8,5,2,Sinker,92.2,1,1,0,1,Ground out,Centre field,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+24,Red Sox,AL East,E. Rodriguez,Left,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,1,1,1,Cutter,91.4,0,0,0,0,Called Strike,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Red Sox,AL East,E. Rodriguez,Left,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,1,1,2,Fastball,92.7,0,0,0,1,Ball,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+24,Red Sox,AL East,E. Rodriguez,Left,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,1,1,3,Cutter,90.3,1,1,1,1,Foul,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+24,Red Sox,AL East,E. Rodriguez,Left,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,1,1,4,Slider,85.9,0,0,1,2,Ball,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+24,Red Sox,AL East,E. Rodriguez,Left,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,1,1,5,Sinker,93.6,0,0,2,2,Foul,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+24,Red Sox,AL East,E. Rodriguez,Left,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,1,1,6,Fastball,94.1,1,1,2,2,Fly Out,Right field,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+24,Red Sox,AL East,E. Rodriguez,Left,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,3,2,1,Changeup,88.2,0,0,0,0,Swinging strike,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+24,Red Sox,AL East,E. Rodriguez,Left,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,3,2,2,Changeup,88.7,1,1,0,1,Swinging strike,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+24,Red Sox,AL East,E. Rodriguez,Left,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,3,2,3,Changeup,88.4,2,2,0,2,Ball,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+24,Red Sox,AL East,E. Rodriguez,Left,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,3,2,4,Cutter,90.7,0,2,1,2,Ball,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+24,Red Sox,AL East,E. Rodriguez,Left,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,3,2,5,Cutter,91,1,3,2,2,Single ,Centre field,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+24,Red Sox,AL East,E. Rodriguez,Left,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,5,3,1,Cutter,87.5,0,4,0,0,Double,Centre field,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+24,Red Sox,AL East,M. Andriese,Right,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,6,4,1,Changeup,86.8,0,0,0,0,Ball,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+24,Red Sox,AL East,M. Andriese,Right,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,6,4,2,Fastball,92.9,0,0,1,0,Ball,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+24,Red Sox,AL East,M. Andriese,Right,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,6,4,3,Changeup,86.4,1,1,2,0,Foul,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+24,Red Sox,AL East,M. Andriese,Right,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,6,4,4,Fastball,93.7,1,1,2,1,Called Strike,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+24,Red Sox,AL East,M. Andriese,Right,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,6,4,5,Fastball,93.9,2,2,2,2,Ball,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+24,Red Sox,AL East,M. Andriese,Right,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,6,4,6,Changeup,87.7,2,2,3,2,Single,Left field,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+24,Red Sox,AL East,M. Andriese,Right,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,8,5,1,Fastball,90.3,0,3,0,0,Swinging strike,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+24,Red Sox,AL East,M. Andriese,Right,Home,TD Ballpark,Night,84,Cloudy,A. Marquez,8,5,2,Changeup,86.5,0,3,0,1,Ground out,Left field,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+25,Red Sox,AL East,G. Richards,Right,Home,TD Ballpark,Night,85,Clear,R. Ortiz,1,1,1,Slider,84.8,0,0,0,0,Ball,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Red Sox,AL East,G. Richards,Right,Home,TD Ballpark,Night,85,Clear,R. Ortiz,1,1,2,Slider,85.8,1,1,1,0,Ball,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+25,Red Sox,AL East,G. Richards,Right,Home,TD Ballpark,Night,85,Clear,R. Ortiz,1,1,3,Slider,87.6,2,2,2,0,Ball,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+25,Red Sox,AL East,G. Richards,Right,Home,TD Ballpark,Night,85,Clear,R. Ortiz,1,1,4,Fastball,94.2,0,0,3,0,Walk,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+25,Red Sox,AL East,G. Richards,Right,Home,TD Ballpark,Night,85,Clear,R. Ortiz,3,2,1,Curveball,78.9,0,0,0,0,Ball,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+25,Red Sox,AL East,G. Richards,Right,Home,TD Ballpark,Night,85,Clear,R. Ortiz,3,2,2,Fastball,92.9,0,1,1,0,Called Strike,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+25,Red Sox,AL East,G. Richards,Right,Home,TD Ballpark,Night,85,Clear,R. Ortiz,3,2,3,Fastball,93.2,1,2,1,1,Foul,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+25,Red Sox,AL East,G. Richards,Right,Home,TD Ballpark,Night,85,Clear,R. Ortiz,3,2,4,Fastball,94.2,2,3,1,2,Ground out,Left field,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+25,Red Sox,AL East,G. Richards,Right,Home,TD Ballpark,Night,85,Clear,R. Ortiz,6,3,1,Slider,87.7,0,3,0,0,Single,Left field,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+25,Red Sox,AL East,A. Ottavino,Right,Home,TD Ballpark,Night,85,Clear,R. Ortiz,8,4,1,Slider,81.1,0,0,0,0,Foul,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+25,Red Sox,AL East,A. Ottavino,Right,Home,TD Ballpark,Night,85,Clear,R. Ortiz,8,4,2,Slider,82,1,1,0,1,Single,Right field,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+26,Red Sox,AL East,N. Pivetta,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,1,1,1,Knuckle Curve,80.9,0,0,0,0,Ball,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Red Sox,AL East,N. Pivetta,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,1,1,2,Fastball,96.4,0,0,1,0,Ball,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,Red Sox,AL East,N. Pivetta,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,1,1,3,Slider,86.6,0,0,2,0,Ball,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+26,Red Sox,AL East,N. Pivetta,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,1,1,4,Fastball,95.3,1,1,3,0,Walk,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+26,Red Sox,AL East,N. Pivetta,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,3,2,1,Knuckle Curve,80.4,0,1,0,0,Ball,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+26,Red Sox,AL East,N. Pivetta,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,3,2,2,Knuckle Curve,79.7,1,2,1,0,Swinging strike,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,Red Sox,AL East,N. Pivetta,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,3,2,3,Knuckle Curve,78.8,2,3,1,1,Ball,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,Red Sox,AL East,N. Pivetta,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,3,2,4,Fastball,94.6,0,2,2,1,Foul,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,Red Sox,AL East,N. Pivetta,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,3,2,5,Knuckle Curve,80.5,3,4,2,2,Fly Out,Right field,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+26,Red Sox,AL East,N. Pivetta,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,5,3,1,Knuckle Curve,79.8,0,5,0,0,Reach on Error,Left field,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,Red Sox,AL East,H. Sawamura,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,6,4,1,Splitter,88.8,0,0,0,0,Ball,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,Red Sox,AL East,H. Sawamura,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,6,4,2,Slider,87.2,0,0,1,0,Foul,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+26,Red Sox,AL East,H. Sawamura,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,6,4,3,Splitter,89.6,1,1,1,1,Reach on Fielder's Choice,Left field,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+26,Red Sox,AL East,P. Valdez,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,8,5,1,Slider,82.6,0,0,0,0,Ball,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+26,Red Sox,AL East,P. Valdez,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,8,5,2,Changeup,86.4,0,0,1,0,Foul,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+26,Red Sox,AL East,P. Valdez,Right,Home,TD Ballpark,Night,84,Clear,M. Wegner,8,5,3,Sinker,94.6,0,0,1,1,Ground out,Left field,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+27,Rays,AL East,T. Glasnow,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,1,1,1,Slider,87.7,0,0,0,0,Ball,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Rays,AL East,T. Glasnow,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,1,1,2,Fastball,95.7,0,0,1,0,Swinging strike,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+27,Rays,AL East,T. Glasnow,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,1,1,3,Fastball,97.1,1,1,1,1,Foul,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+27,Rays,AL East,T. Glasnow,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,1,1,4,Curveball,83.2,0,0,1,2,Single,Right field,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+27,Rays,AL East,T. Glasnow,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,3,2,1,Fastball,95.9,0,2,0,0,Foul,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+27,Rays,AL East,T. Glasnow,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,3,2,2,Changeup,90.8,0,0,0,1,Ground out,Left field,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+27,Rays,AL East,T. Glasnow,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,5,3,1,Slider,88,0,1,0,0,Swinging strike,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+27,Rays,AL East,T. Glasnow,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,5,3,2,Slider,87.9,1,2,0,1,Ball,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+27,Rays,AL East,T. Glasnow,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,5,3,3,Curveball,82.7,0,0,1,1,Swinging strike,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+27,Rays,AL East,T. Glasnow,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,5,3,4,Curveball,83.1,1,1,1,2,Single,Left field,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+27,Rays,AL East,A. Kitteredge,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,7,4,1,Sinker,95.1,0,0,0,0,Called strike,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+27,Rays,AL East,A. Kitteredge,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,7,4,2,Sinker,95.8,1,1,0,1,Ball,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+27,Rays,AL East,A. Kitteredge,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,7,4,3,Sinker,96,2,2,1,1,Line out,Right field,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+27,Rays,AL East,R. Thompson,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,9,5,1,Sinker,90.4,0,0,0,0,Swinging strike,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+27,Rays,AL East,R. Thompson,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,9,5,2,Slider,79.9,0,0,0,1,Swinging strike,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+27,Rays,AL East,R. Thompson,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,9,5,3,Slider,80.7,1,1,0,2,Swinging strike out,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+27,Rays,AL East,D. Castillo,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,12,6,1,Sinker,95.1,0,0,0,0,Foul,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+27,Rays,AL East,D. Castillo,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,12,6,2,Sinker,96,1,1,0,1,Ball,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+27,Rays,AL East,D. Castillo,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,12,6,3,Slider,87.4,0,0,1,1,Swinging strike,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+27,Rays,AL East,D. Castillo,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,12,6,4,Slider,87.7,1,1,1,2,Ball,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+27,Rays,AL East,D. Castillo,Right,Home,TD Ballpark,Night,84,Partly Cloudy,J. Meals,12,6,5,Slider,86.8,2,2,2,2,Swinging strike out,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+28,Rays,AL East,S. McClanahan,Left,Home,TD Ballpark,Night,85,Clear,V. Carapazza,1,1,1,Fastball,96.3,0,0,0,0,Called strike,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Rays,AL East,S. McClanahan,Left,Home,TD Ballpark,Night,85,Clear,V. Carapazza,1,1,2,Curveball,83,0,0,0,1,Double,Right field,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+28,Rays,AL East,S. McClanahan,Left,Home,TD Ballpark,Night,85,Clear,V. Carapazza,4,2,1,Fastball,98.2,0,1,0,0,Foul,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+28,Rays,AL East,S. McClanahan,Left,Home,TD Ballpark,Night,85,Clear,V. Carapazza,4,2,2,Fastball,98.9,1,2,0,1,Line out,Centre field,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+28,Rays,AL East,J. Feyereisen,Right,Home,TD Ballpark,Night,85,Clear,V. Carapazza,6,3,1,Fastball,94.9,0,0,0,0,Called strike,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+28,Rays,AL East,J. Feyereisen,Right,Home,TD Ballpark,Night,85,Clear,V. Carapazza,6,3,2,Fastball,95.3,1,1,0,1,Swinging strike,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+28,Rays,AL East,J. Feyereisen,Right,Home,TD Ballpark,Night,85,Clear,V. Carapazza,6,3,3,Fastball,95.1,2,2,0,2,Foul,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+28,Rays,AL East,J. Feyereisen,Right,Home,TD Ballpark,Night,85,Clear,V. Carapazza,6,3,4,Fastball,93.9,3,3,0,2,Foul,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+28,Rays,AL East,J. Feyereisen,Right,Home,TD Ballpark,Night,85,Clear,V. Carapazza,6,3,5,Changeup,89.2,0,0,0,2,Ground out,Left field,0,0,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+28,Rays,AL East,P. Fairbanks,Right,Home,TD Ballpark,Night,85,Clear,V. Carapazza,8,4,1,Slider,84.7,0,0,0,0,Foul,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+28,Rays,AL East,P. Fairbanks,Right,Home,TD Ballpark,Night,85,Clear,V. Carapazza,8,4,2,Slider,86.3,1,1,0,1,Swinging strike,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+28,Rays,AL East,P. Fairbanks,Right,Home,TD Ballpark,Night,85,Clear,V. Carapazza,8,4,3,Slider,87,2,2,0,2,Swinging strike out,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+29,Rays,AL East,M. Wacha,Right,Home,TD Ballpark,Afternoon,86,Sunny,J. Visconti,1,1,1,Fastball,92.9,0,0,0,0,Ball,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,Rays,AL East,M. Wacha,Right,Home,TD Ballpark,Afternoon,86,Sunny,J. Visconti,1,1,2,Fastball,94.4,1,1,1,0,Swinging strike,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+29,Rays,AL East,M. Wacha,Right,Home,TD Ballpark,Afternoon,86,Sunny,J. Visconti,1,1,3,Fastball,95.6,2,2,1,1,Swinging strike,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+29,Rays,AL East,M. Wacha,Right,Home,TD Ballpark,Afternoon,86,Sunny,J. Visconti,1,1,4,Fastball,96,3,3,1,2,Ball,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+29,Rays,AL East,M. Wacha,Right,Home,TD Ballpark,Afternoon,86,Sunny,J. Visconti,1,1,5,Fastball,94.9,4,4,2,2,Fly Out,Centre field,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+29,Rays,AL East,J. Fleming,Left,Home,TD Ballpark,Afternoon,86,Sunny,J. Visconti,4,2,1,Sinker,92.1,0,0,0,0,Called Strike,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+29,Rays,AL East,J. Fleming,Left,Home,TD Ballpark,Afternoon,86,Sunny,J. Visconti,4,2,2,Changeup,83.5,0,0,0,1,Swinging strike,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+29,Rays,AL East,J. Fleming,Left,Home,TD Ballpark,Afternoon,86,Sunny,J. Visconti,4,2,3,Cutter,87.1,0,0,0,2,Home Run,Centre field,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+29,Rays,AL East,J. Fleming,Left,Home,TD Ballpark,Afternoon,86,Sunny,J. Visconti,5,3,1,Changeup,81.8,0,1,0,0,Ball,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+29,Rays,AL East,J. Fleming,Left,Home,TD Ballpark,Afternoon,86,Sunny,J. Visconti,5,3,2,Changeup,81.5,0,2,1,1,Foul,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+29,Rays,AL East,J. Fleming,Left,Home,TD Ballpark,Afternoon,86,Sunny,J. Visconti,5,3,3,Sinker,91.2,0,1,1,1,Single,Centre field,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+29,Rays,AL East,J. Fleming,Left,Home,TD Ballpark,Afternoon,86,Sunny,J. Visconti,8,4,1,Sinker,90.3,0,2,0,0,Single,Left field,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+30,Rays,AL East,R. Yarbrough,Left,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,2,1,1,Sinker,86.1,0,0,0,0,Called Strike,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Rays,AL East,R. Yarbrough,Left,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,2,1,2,Cutter,82.4,0,0,0,1,Swinging strike,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+30,Rays,AL East,R. Yarbrough,Left,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,2,1,3,Changeup,78.8,0,0,0,2,Ball,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+30,Rays,AL East,R. Yarbrough,Left,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,2,1,4,Changeup,78.6,1,1,1,2,Foul,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+30,Rays,AL East,R. Yarbrough,Left,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,2,1,5,Curveball,73,0,0,1,2,Foul,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+30,Rays,AL East,R. Yarbrough,Left,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,2,1,6,Cutter,84.8,1,1,1,2,Swinging strike out,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+30,Rays,AL East,R. Yarbrough,Left,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,4,2,1,Cutter,82.8,0,2,0,0,Foul,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+30,Rays,AL East,R. Yarbrough,Left,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,4,2,2,Curveball,72.7,0,1,0,1,Foul,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+30,Rays,AL East,R. Yarbrough,Left,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,4,2,3,Cutter,84.1,1,3,0,2,Ball,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+30,Rays,AL East,R. Yarbrough,Left,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,4,2,4,Cutter,83.6,2,4,1,2,Ball,,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+30,Rays,AL East,R. Yarbrough,Left,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,4,2,5,Curveball,73.4,1,2,2,2,Home Run,Left field,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+30,Rays,AL East,C. McHugh,Right,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,7,3,1,Slider,79.6,0,0,0,0,Called Strike,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+30,Rays,AL East,C. McHugh,Right,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,7,3,2,Slider,80.1,1,1,0,1,Foul,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+30,Rays,AL East,C. McHugh,Right,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,7,3,3,Slider,81.9,2,2,0,2,Ball,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+30,Rays,AL East,C. McHugh,Right,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,7,3,4,Fastball,91.8,0,0,1,2,Swinging strike out,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+30,Rays,AL East,R. Thompson,Right,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,8,4,1,Sinker,91,0,0,0,0,Called Strike,,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+30,Rays,AL East,R. Thompson,Right,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,8,4,2,Sinker,90.7,1,1,0,1,Single,Left field,0,0,0,1,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+30,Rays,AL East,J. Springs,Left,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,10,5,1,Sinker,92.7,0,0,0,0,Called Strike,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+30,Rays,AL East,J. Springs,Left,Home,TD Ballpark,Afternoon,85,Sunny,J. Valentine,10,5,2,Sinker,92.2,1,1,0,1,Fly Out,Right field,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+31,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,1,1,1,Cutter,88.2,0,0,0,0,Ball,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+31,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,1,1,2,Sinker,91.7,0,0,1,0,Foul,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+31,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,1,1,3,Cutter,86.9,1,1,1,1,Ball,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+31,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,1,1,4,Changeup,85.8,0,0,2,1,Ball,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+31,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,1,1,5,Sinker,90.8,1,1,3,1,Walk,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+31,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,3,2,1,Curveball,82,0,0,0,0,Swinging strike,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+31,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,3,2,2,Curveball,81.1,1,1,0,1,Foul,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+31,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,3,2,3,Curveball,80.8,2,2,0,2,Ball,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+31,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,3,2,4,Sinker,91.2,0,2,1,2,Ball,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+31,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,3,2,5,Sinker,90.3,1,3,2,2,Ball,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+31,Yankees,AL East,C. Kluber,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,3,2,6,Curveball,82.7,3,3,3,2,Swinging strike out,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+31,Yankees,AL East,M. King,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,5,3,1,Sinker,92.4,0,0,0,0,Single,Right field,0,0,1,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+31,Yankees,AL East,L. Leutage,Left,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,7,4,1,Cutter,87.9,0,0,0,0,Ball,,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+31,Yankees,AL East,L. Leutage,Left,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,7,4,2,Cutter,88.2,1,1,1,0,Fly Out,Right field,0,0,0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+31,Yankees,AL East,L. Cessa,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,8,5,1,Slider,80.9,0,0,0,0,Ball,,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+31,Yankees,AL East,L. Cessa,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,8,5,2,Slider,80.6,1,1,1,0,Called Strike,,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+31,Yankees,AL East,L. Cessa,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,8,5,3,Slider,81.2,2,2,1,1,Foul,,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+31,Yankees,AL East,L. Cessa,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,8,5,4,Slider,81,3,3,1,2,Ball,,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+31,Yankees,AL East,L. Cessa,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,8,5,5,Slider,81.8,4,4,2,2,Ball,,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+31,Yankees,AL East,L. Cessa,Right,Away,Yankee Stadium,Night,67,Partly Cloudy,A. Johnson,8,5,6,Slider,81.2,5,5,3,2,Line out,Centre field,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+32,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Mid-Afternoon,81,Clear,S. Barber,2,1,1,Curveball,81,0,0,0,0,Called strike,,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Mid-Afternoon,81,Clear,S. Barber,2,1,2,Changeup,85.8,0,0,0,1,Ball,,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+32,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Mid-Afternoon,81,Clear,S. Barber,2,1,3,Curveball,82.1,1,1,1,1,Ground out,Left field,1,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+32,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Mid-Afternoon,81,Clear,S. Barber,3,2,1,Curveball,80.8,0,2,0,0,Foul,,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+32,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Mid-Afternoon,81,Clear,S. Barber,3,2,2,Curveball,81.8,1,3,0,1,Swinging strike,,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+32,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Mid-Afternoon,81,Clear,S. Barber,3,2,3,Fastball,94.5,0,0,0,2,Swinging strike out,,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+32,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Mid-Afternoon,81,Clear,S. Barber,6,3,1,Sinker,91.9,0,0,0,0,Called strike,,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+32,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Mid-Afternoon,81,Clear,S. Barber,6,3,2,Sinker,92.3,1,1,0,1,Called strike,,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+32,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Mid-Afternoon,81,Clear,S. Barber,6,3,3,Curveball,81.6,0,4,0,2,Ball,,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+32,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Mid-Afternoon,81,Clear,S. Barber,6,3,4,Curveball,81.3,1,5,1,2,Ball,,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+32,Yankees,AL East,D. German,Right,Away,Yankee Stadium,Mid-Afternoon,81,Clear,S. Barber,6,3,5,Sinker,92.2,2,2,2,2,Swinging strike out,,0,0,1,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+33,Yankees,AL East,J. Montgomery,Right,Away,Yankee Stadium,Night,79,Partly Cloudy,J. Tumpane,2,1,1,Sinker,92.5,0,0,0,0,Foul,,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Yankees,AL East,J. Montgomery,Right,Away,Yankee Stadium,Night,79,Partly Cloudy,J. Tumpane,2,1,2,Changeup,82.9,0,0,0,1,Fly Out,Right field,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+33,Yankees,AL East,J. Montgomery,Right,Away,Yankee Stadium,Night,79,Partly Cloudy,J. Tumpane,4,2,1,Cutter,85.3,0,0,0,0,Ball,,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+33,Yankees,AL East,J. Montgomery,Right,Away,Yankee Stadium,Night,79,Partly Cloudy,J. Tumpane,4,2,2,Curveball,79.3,0,0,1,0,Single,Left field,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+33,Yankees,AL East,J. Loaisiga,Right,Away,Yankee Stadium,Night,79,Partly Cloudy,J. Tumpane,6,3,1,Curveball,87.8,0,0,0,0,Ball,,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+33,Yankees,AL East,J. Loaisiga,Right,Away,Yankee Stadium,Night,79,Partly Cloudy,J. Tumpane,6,3,2,Sinker,97.5,0,0,1,0,Called strike,,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+33,Yankees,AL East,J. Loaisiga,Right,Away,Yankee Stadium,Night,79,Partly Cloudy,J. Tumpane,6,3,3,Sinker,98,1,1,1,1,Foul,,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+33,Yankees,AL East,J. Loaisiga,Right,Away,Yankee Stadium,Night,79,Partly Cloudy,J. Tumpane,6,3,4,Curveball,87.3,1,1,1,2,Ball,,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+33,Yankees,AL East,J. Loaisiga,Right,Away,Yankee Stadium,Night,79,Partly Cloudy,J. Tumpane,6,3,5,Curveball,87.3,2,2,2,2,Foul,,0,0,1,0,1,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+33,Yankees,AL East,J. Loaisiga,Right,Away,Yankee Stadium,Night,79,Partly Cloudy,J. Tumpane,6,3,6,Changeup,90.6,0,0,2,2,Foul,,0,0,1,0,1,1,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+33,Yankees,AL East,J. Loaisiga,Right,Away,Yankee Stadium,Night,79,Partly Cloudy,J. Tumpane,6,3,7,Sinker,98.6,2,2,2,2,Ground out,Right field,0,0,1,0,1,1,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+34,Indians,AL Central,E. Morgan,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,1,1,1,Fastball,89.5,0,0,0,0,Swinging strike,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Indians,AL Central,E. Morgan,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,1,1,2,Fastball,91.1,1,1,0,1,Foul,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+34,Indians,AL Central,E. Morgan,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,1,1,3,Fastball,90,2,2,0,2,Ball,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+34,Indians,AL Central,E. Morgan,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,1,1,4,Fastball,90.9,3,3,1,2,Ball,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+34,Indians,AL Central,E. Morgan,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,1,1,5,Changeup,75,0,0,2,2,Fly Out,Right field,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+34,Indians,AL Central,E. Morgan,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,3,2,1,Cutter,86,0,0,0,0,Foul,,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+34,Indians,AL Central,E. Morgan,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,3,2,2,Changeup,74.3,0,1,0,1,Ball,,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+34,Indians,AL Central,E. Morgan,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,3,2,3,Slider,83.8,0,0,1,1,Single,Right field,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+34,Indians,AL Central,P. Maton,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,5,3,1,Fastball,89.5,0,0,0,0,Ball,,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+34,Indians,AL Central,P. Maton,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,5,3,2,Fastball,90.9,1,1,1,0,Called strike,,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+34,Indians,AL Central,P. Maton,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,5,3,3,Slider,81.5,0,0,1,1,Single,Right field,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+34,Indians,AL Central,T. Stephan,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,6,4,1,Slider,80.6,0,0,0,0,Ball,,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+34,Indians,AL Central,T. Stephan,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,6,4,2,Fastball,94,0,0,1,0,Swinging strike,,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+34,Indians,AL Central,T. Stephan,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,6,4,3,Fastball,93.7,1,1,1,1,Swinging strike,,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+34,Indians,AL Central,T. Stephan,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,6,4,4,Slider,79.7,1,1,1,2,Foul,,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+34,Indians,AL Central,T. Stephan,Right,Away,Progressive Field,Night,50,Overcast,G. Morales,6,4,5,Fastball,94.9,2,2,1,2,Called Strike out,,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+35,Indians,AL Central,A. Civale,Right,Away,Progressive Field,Afternoon,59,Sunny,D. Eddings,1,1,1,Sinker,92.1,0,0,0,0,Called strike,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Indians,AL Central,A. Civale,Right,Away,Progressive Field,Afternoon,59,Sunny,D. Eddings,1,1,2,Slider,83.4,0,0,0,1,Ball,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+35,Indians,AL Central,A. Civale,Right,Away,Progressive Field,Afternoon,59,Sunny,D. Eddings,1,1,3,Sinker,92,1,1,1,1,Ground out,Left field,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+35,Indians,AL Central,A. Civale,Right,Away,Progressive Field,Afternoon,59,Sunny,D. Eddings,4,2,1,Slider,83.6,0,1,0,0,Home Run,Left field,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+35,Indians,AL Central,A. Civale,Right,Away,Progressive Field,Afternoon,59,Sunny,D. Eddings,6,3,1,Splitter,84.6,0,0,0,0,Swinging strike,,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+35,Indians,AL Central,A. Civale,Right,Away,Progressive Field,Afternoon,59,Sunny,D. Eddings,6,3,2,Fastball,90.7,0,0,0,1,Line out,Left field,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+35,Indians,AL Central,P. Maton,Right,Away,Progressive Field,Afternoon,59,Sunny,D. Eddings,7,4,1,Fastball,92.9,0,0,0,0,Foul,,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+35,Indians,AL Central,P. Maton,Right,Away,Progressive Field,Afternoon,59,Sunny,D. Eddings,7,4,2,Fastball,91.5,1,1,0,1,Swinging strike,,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+35,Indians,AL Central,P. Maton,Right,Away,Progressive Field,Afternoon,59,Sunny,D. Eddings,7,4,2,Fastball,91.9,2,2,0,2,Swinging strike out,,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+36,Indians,AL Central,S. Hentges,Left,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,2,1,1,Slider,85.8,0,0,0,0,Called Strike,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Indians,AL Central,S. Hentges,Left,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,2,1,2,Sinker,93.6,0,0,0,1,Ball,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+36,Indians,AL Central,S. Hentges,Left,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,2,1,3,Fastball,93.5,0,0,1,1,Ball,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+36,Indians,AL Central,S. Hentges,Left,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,2,1,4,Curveball,80.8,0,0,2,1,Called Strike,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+36,Indians,AL Central,S. Hentges,Left,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,2,1,5,Curveball,80.2,1,1,2,2,Swinging strike out,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+36,Indians,AL Central,S. Hentges,Left,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,3,2,1,Curveball,78.4,0,2,0,0,Ball,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+36,Indians,AL Central,S. Hentges,Left,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,3,2,2,Fastball,92.8,0,1,1,0,Ball,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+36,Indians,AL Central,S. Hentges,Left,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,3,2,3,Fastball,93.6,1,2,2,0,Foul,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+36,Indians,AL Central,S. Hentges,Left,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,3,2,4,Curveball,80.1,1,3,2,1,Ball,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+36,Indians,AL Central,S. Hentges,Left,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,3,2,5,Fastball,93.3,2,3,3,1,Double,Centre field,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+36,Indians,AL Central,N. Wittgren,Right,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,5,3,1,Fastball,92.6,0,0,0,0,Ball,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+36,Indians,AL Central,N. Wittgren,Right,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,5,3,2,Changeup,86.8,0,0,1,0,Called Strike,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+36,Indians,AL Central,N. Wittgren,Right,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,5,3,3,Fastball,93.2,1,1,1,1,Called Strike,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+36,Indians,AL Central,N. Wittgren,Right,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,5,3,4,Changeup,87.4,1,1,1,2,Foul,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+36,Indians,AL Central,N. Wittgren,Right,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,5,3,5,Changeup,87.4,2,2,1,2,Ball,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+36,Indians,AL Central,N. Wittgren,Right,Away,Progressive Field,Mid-Afternoon,60,Clear,B. Miller,5,3,6,Fastball,93.1,2,2,2,2,Called Strike out,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+37,Marlins,NL East,S. Alcantara,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,1,1,1,Slider,86.8,0,0,0,0,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Marlins,NL East,S. Alcantara,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,1,1,2,Slider,88.4,1,1,1,0,Swinging strike,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+37,Marlins,NL East,S. Alcantara,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,1,1,3,Changeup,89.9,0,0,1,1,Ground out,Left field,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+37,Marlins,NL East,S. Alcantara,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,3,2,1,Slider,90.1,0,2,0,0,Swinging strike,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+37,Marlins,NL East,S. Alcantara,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,3,2,2,Sinker,97.3,0,0,0,1,Foul,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+37,Marlins,NL East,S. Alcantara,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,3,2,3,Slider,90.6,1,3,0,2,Foul,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+37,Marlins,NL East,S. Alcantara,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,3,2,4,Sinker,98.8,1,1,0,2,Called Strike out,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+37,Marlins,NL East,S. Alcantara,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,5,3,1,Sinker,97,0,2,0,0,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+37,Marlins,NL East,S. Alcantara,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,5,3,2,Slider,90.1,0,4,1,0,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+37,Marlins,NL East,S. Alcantara,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,5,3,3,Sinker,97.6,1,3,2,0,Foul,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+37,Marlins,NL East,S. Alcantara,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,5,3,4,Changeup,91.1,0,1,2,1,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+37,Marlins,NL East,S. Alcantara,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,5,3,5,Changeup,91.2,1,2,3,1,Swinging strike,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+37,Marlins,NL East,S. Alcantara,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,5,3,6,Changeup,91.2,2,3,3,2,Ground out,Left field,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+37,Marlins,NL East,J. Curtiss,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,7,4,1,Fastball,96,0,0,0,0,Foul,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+37,Marlins,NL East,J. Curtiss,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,7,4,2,Slider,89.3,0,0,0,1,Ball,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+37,Marlins,NL East,J. Curtiss,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,7,4,3,Fastball,96.7,1,1,1,1,Foul,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+37,Marlins,NL East,J. Curtiss,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,7,4,4,Slider,90.8,1,1,1,2,Foul,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+37,Marlins,NL East,J. Curtiss,Right,Home,Sahlen Field,Night,70,Partly Cloudy,D. Merzel,7,4,5,Fastball,97.5,2,2,1,2,Swinging strike out,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+38,Marlins,NL East,P. Lopez,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,1,1,1,Cutter,92.8,0,0,0,0,Called Strike,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Marlins,NL East,P. Lopez,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,1,1,2,Changeup,89.5,0,0,0,1,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+38,Marlins,NL East,P. Lopez,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,1,1,3,Changeup,89.2,1,1,1,1,Swinging strike,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+38,Marlins,NL East,P. Lopez,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,1,1,4,Changeup,89.2,2,2,1,2,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+38,Marlins,NL East,P. Lopez,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,1,1,5,Fastball,96.4,0,0,2,2,Foul,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+38,Marlins,NL East,P. Lopez,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,1,1,6,Changeup,89,3,3,2,2,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+38,Marlins,NL East,P. Lopez,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,1,1,7,Changeup,90.2,4,4,3,2,Swinging strike out,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+38,Marlins,NL East,P. Lopez,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,3,2,1,Cutter,93.4,0,1,0,0,Foul,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+38,Marlins,NL East,P. Lopez,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,3,2,2,Sinker,95.5,0,0,0,1,Ball,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+38,Marlins,NL East,P. Lopez,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,3,2,3,Fastball,95.3,0,1,1,1,Swinging strike,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+38,Marlins,NL East,P. Lopez,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,3,2,4,Curveball,81.9,0,0,1,2,Ball,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+38,Marlins,NL East,P. Lopez,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,3,2,5,Changeup,89.2,0,5,2,2,Swinging strike out,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+38,Marlins,NL East,A. Bender,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,5,3,1,Slider,86.5,0,0,0,0,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+38,Marlins,NL East,A. Bender,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,5,3,2,Sinker,97.9,0,0,1,0,Called Strike,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+38,Marlins,NL East,A. Bender,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,5,3,3,Slider,85.5,1,1,1,1,Called Strike,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+38,Marlins,NL East,A. Bender,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,5,3,4,Slider,86.3,2,2,1,2,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+38,Marlins,NL East,A. Bender,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,5,3,5,Slider,86.4,3,3,2,2,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+38,Marlins,NL East,A. Bender,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,5,3,6,Sinker,97.4,2,2,3,2,Swinging strike out,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+38,Marlins,NL East,A. Bass,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,7,4,1,Sinker,96.4,0,0,0,0,Reach on Fielder's Choice,Left field,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+38,Marlins,NL East,Y. Garcia,Right,Home,Sahlen Field,Night,71,Cloudy,G. Gibson,9,5,1,Intentional Walk,-,0,0,0,0,Walk,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+39,Astros,AL West,Z. Greinke,Right,Home,Sahlen Field,Night,68,Clear,P. Hoberg,2,1,1,Fastball,89,0,0,0,0,Called strike,,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+39,Astros,AL West,Z. Greinke,Right,Home,Sahlen Field,Night,68,Clear,P. Hoberg,2,1,2,Fastball,89.4,1,1,0,1,Single,Right field,1,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+39,Astros,AL West,Z. Greinke,Right,Home,Sahlen Field,Night,68,Clear,P. Hoberg,4,2,1,Fastball,90.3,0,1,0,0,Foul,,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+39,Astros,AL West,Z. Greinke,Right,Home,Sahlen Field,Night,68,Clear,P. Hoberg,4,2,2,Fastball,90.7,1,2,0,1,Ball,,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+39,Astros,AL West,Z. Greinke,Right,Home,Sahlen Field,Night,68,Clear,P. Hoberg,4,2,3,Slider,83.9,0,0,1,1,Ball,,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+39,Astros,AL West,Z. Greinke,Right,Home,Sahlen Field,Night,68,Clear,P. Hoberg,4,2,4,Slider,84.5,1,1,2,1,Called strike,,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+39,Astros,AL West,Z. Greinke,Right,Home,Sahlen Field,Night,68,Clear,P. Hoberg,4,2,5,Changeup,88.2,0,0,2,2,Ball,,0,1,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+39,Astros,AL West,Z. Greinke,Right,Home,Sahlen Field,Night,68,Clear,P. Hoberg,4,2,6,Fastball,91.3,2,3,3,2,Foul,,0,1,0,0,1,0,1,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+39,Astros,AL West,Z. Greinke,Right,Home,Sahlen Field,Night,68,Clear,P. Hoberg,4,2,7,Slider,84.7,2,2,3,2,Walk,,0,1,0,0,1,0,1,1,0,0,1,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+39,Astros,AL West,Z. Greinke,Right,Home,Sahlen Field,Night,68,Clear,P. Hoberg,7,3,1,Curveball,73.2,0,0,0,0,Fly Out,Centre field,0,0,1,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+39,Astros,AL West,Z. Greinke,Right,Home,Sahlen Field,Night,68,Clear,P. Hoberg,9,4,1,Slider,83,0,2,0,0,Foul,,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0
+39,Astros,AL West,Z. Greinke,Right,Home,Sahlen Field,Night,68,Clear,P. Hoberg,9,4,2,Changeup,87.9,0,1,0,1,Ball,,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+39,Astros,AL West,Z. Greinke,Right,Home,Sahlen Field,Night,68,Clear,P. Hoberg,9,4,3,Curveball,71.6,0,1,1,1,Single,Left field,0,0,0,1,1,0,1,1,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+40,Astros,AL West,J. Urquidy,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,1,1,1,Slider,79.3,0,0,0,0,Called strike,,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Astros,AL West,J. Urquidy,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,1,1,2,Fastball,93.2,0,0,0,1,Swinging strike,,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+40,Astros,AL West,J. Urquidy,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,1,1,3,Fastball,94.9,1,1,0,2,Foul,,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+40,Astros,AL West,J. Urquidy,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,1,1,4,Slider,78.7,1,1,0,2,Foul,,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+40,Astros,AL West,J. Urquidy,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,1,1,5,Fastball,93.9,2,2,0,2,Ball,,1,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+40,Astros,AL West,J. Urquidy,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,1,1,6,Fastball,94.3,3,3,1,2,Foul,,1,0,0,0,1,0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+40,Astros,AL West,J. Urquidy,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,1,1,7,Changeup,85.7,0,0,1,2,Ball,,1,0,0,0,1,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+40,Astros,AL West,J. Urquidy,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,1,1,8,Slider,79.1,2,2,2,2,Swinging strike out,,1,0,0,0,1,0,1,1,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+40,Astros,AL West,J. Urquidy,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,4,2,1,Fastball,92.6,0,4,0,0,Single,Right field,0,1,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+40,Astros,AL West,E. Paredes,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,5,3,1,Slider,85.1,0,0,0,0,Ball,,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+40,Astros,AL West,E. Paredes,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,5,3,2,Fastball,93.2,0,0,1,0,Ball,,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+40,Astros,AL West,E. Paredes,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,5,3,3,Fastball,94.5,1,1,2,0,Ball,,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+40,Astros,AL West,E. Paredes,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,5,3,4,Fastball,94.7,2,2,3,0,Walk,,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+40,Astros,AL West,J. Smith,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,7,4,1,Sinker,86.1,0,0,0,0,Called strike,,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+40,Astros,AL West,J. Smith,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,7,4,2,Slider,77.9,0,0,0,1,Ball,,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+40,Astros,AL West,J. Smith,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,7,4,3,Slider,77.6,1,1,1,1,Ball,,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+40,Astros,AL West,J. Smith,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,7,4,4,Sinker,86.2,1,1,2,1,Swinging strike,,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+40,Astros,AL West,J. Smith,Right,Home,Sahlen Field,Mid-Afternoon,69,Cloudy,B. May,7,4,5,Sinker,85.7,2,2,2,2,Swinging strike out,,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+41,Astros,AL West,L. Garcia,Right,Home,Sahlen Field,Afternoon,73,Sunny,C. Conroy,2,1,1,Fastball,92.1,0,0,0,0,Single,Left field,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Astros,AL West,L. Garcia,Right,Home,Sahlen Field,Afternoon,73,Sunny,C. Conroy,4,2,1,Slider,79.1,0,0,0,0,Called strike,,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+41,Astros,AL West,L. Garcia,Right,Home,Sahlen Field,Afternoon,73,Sunny,C. Conroy,4,2,2,Cutter,86.4,0,0,0,1,Called strike,,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+41,Astros,AL West,L. Garcia,Right,Home,Sahlen Field,Afternoon,73,Sunny,C. Conroy,4,2,3,Cutter,86.2,1,1,0,2,Foul,,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+41,Astros,AL West,L. Garcia,Right,Home,Sahlen Field,Afternoon,73,Sunny,C. Conroy,4,2,4,Slider,80.8,1,1,0,2,Ball,,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+41,Astros,AL West,L. Garcia,Right,Home,Sahlen Field,Afternoon,73,Sunny,C. Conroy,4,2,5,Fastball,94.7,0,1,1,2,Swinging strike out,,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+41,Astros,AL West,L. Garcia,Right,Home,Sahlen Field,Afternoon,73,Sunny,C. Conroy,6,3,1,Slider,79.8,0,1,0,0,Swinging strike,,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+41,Astros,AL West,L. Garcia,Right,Home,Sahlen Field,Afternoon,73,Sunny,C. Conroy,6,3,2,Cutter,86.2,0,2,0,1,Ball,,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+41,Astros,AL West,L. Garcia,Right,Home,Sahlen Field,Afternoon,73,Sunny,C. Conroy,6,3,3,Fastball,95.2,0,2,1,1,Ball,,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+41,Astros,AL West,L. Garcia,Right,Home,Sahlen Field,Afternoon,73,Sunny,C. Conroy,6,3,4,Cutter,85.3,1,3,2,1,Swinging strike,,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+41,Astros,AL West,L. Garcia,Right,Home,Sahlen Field,Afternoon,73,Sunny,C. Conroy,6,3,5,Cutter,83.7,2,4,2,2,Swinging strike out,,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+41,Astros,AL West,R. Stanek,Right,Home,Sahlen Field,Afternoon,73,Sunny,C. Conroy,8,4,1,Fastball,98.5,0,0,0,0,Called Strike,,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+41,Astros,AL West,R. Stanek,Right,Home,Sahlen Field,Afternoon,73,Sunny,C. Conroy,8,4,2,Fastball,98.4,1,1,0,1,Ball,,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+41,Astros,AL West,R. Stanek,Right,Home,Sahlen Field,Afternoon,73,Sunny,C. Conroy,8,4,3,Fastball,98.2,2,2,1,1,Ground out,Right field,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,1,1,1,Slider,84.9,0,0,0,0,Foul,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,1,1,2,Fastball,93.9,0,0,0,1,Ball,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,1,1,3,Slider,86.1,1,1,1,1,Swinging strike,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,1,1,4,Slider,84.2,2,2,1,2,Swinging strike out,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,3,2,1,Fastball,96.8,0,1,0,0,Foul,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,3,2,2,Fastball,97.5,1,2,0,1,Ball,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,3,2,3,Fastball,97.3,2,3,1,1,Foul,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,3,2,4,Fastball,97.9,3,4,1,2,Called Strike out,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,5,3,1,Fastball,98.1,0,5,0,0,Ball,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,5,3,2,Fastball,97.4,1,6,1,0,Ball,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,5,3,3,Fastball,98.4,2,7,2,0,Ball,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,5,3,4,Fastball,97.7,3,8,3,0,Fly Out,Centre field,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,8,4,1,Fastball,98.1,0,0,0,0,Foul,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,8,4,2,Fastball,96.5,1,1,0,1,Ball,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,8,4,3,Fastball,97.5,2,2,1,1,Foul,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,8,4,4,Slider,87.9,0,0,1,2,Ball,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+42,White Sox,AL Central,C. Rodon,Left,Away,Guaranteed Rate Field,Night,81,Partly Cloudy,D. Rackley,8,4,5,Fastball,98,3,3,2,2,Called Strike out,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0
+43,White Sox,AL Central,L. Lynn,Right,Away,Guaranteed Rate Field,Night,76,Clear,E. Bacchus,1,1,1,Cutter,87.4,0,0,0,0,Swinging strike,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+43,White Sox,AL Central,L. Lynn,Right,Away,Guaranteed Rate Field,Night,76,Clear,E. Bacchus,1,1,2,Cutter,85.9,1,1,0,1,Swinging strike,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+43,White Sox,AL Central,L. Lynn,Right,Away,Guaranteed Rate Field,Night,76,Clear,E. Bacchus,1,1,3,Cutter,89.4,2,2,0,2,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+43,White Sox,AL Central,L. Lynn,Right,Away,Guaranteed Rate Field,Night,76,Clear,E. Bacchus,1,1,4,Cutter,88.4,3,3,1,2,Swinging strike out,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+43,White Sox,AL Central,L. Lynn,Right,Away,Guaranteed Rate Field,Night,76,Clear,E. Bacchus,4,2,1,Fastball,92.1,0,0,0,0,Line out,Centre field,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+43,White Sox,AL Central,L. Lynn,Right,Away,Guaranteed Rate Field,Night,76,Clear,E. Bacchus,6,3,1,Cutter,87.4,0,4,0,0,Called Strike,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+43,White Sox,AL Central,L. Lynn,Right,Away,Guaranteed Rate Field,Night,76,Clear,E. Bacchus,6,3,2,Cutter,88.3,1,5,0,1,Foul,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+43,White Sox,AL Central,L. Lynn,Right,Away,Guaranteed Rate Field,Night,76,Clear,E. Bacchus,6,3,2,Cutter,87.8,2,6,0,2,Swinging strike out,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+43,White Sox,AL Central,C. Heuer,Right,Away,Guaranteed Rate Field,Night,76,Clear,E. Bacchus,8,4,1,Fastball,96.3,0,0,0,0,Ball,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+43,White Sox,AL Central,C. Heuer,Right,Away,Guaranteed Rate Field,Night,76,Clear,E. Bacchus,8,4,2,Fastball,96.4,1,1,1,0,Ball,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+43,White Sox,AL Central,C. Heuer,Right,Away,Guaranteed Rate Field,Night,76,Clear,E. Bacchus,8,4,3,Fastball,96.9,2,2,2,0,Ball,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+43,White Sox,AL Central,C. Heuer,Right,Away,Guaranteed Rate Field,Night,76,Clear,E. Bacchus,8,4,4,Fastball,96.4,3,3,3,0,Ground out,Right field,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+44,White Sox,AL Central,D. Keuchel,Left,Away,Guaranteed Rate Field,Night,79,Partly Cloudy,D. Bellino,2,1,1,Sinker,86.8,0,0,0,0,Called Strike,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,White Sox,AL Central,D. Keuchel,Left,Away,Guaranteed Rate Field,Night,79,Partly Cloudy,D. Bellino,2,1,2,Sinker,88,1,1,0,1,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+44,White Sox,AL Central,D. Keuchel,Left,Away,Guaranteed Rate Field,Night,79,Partly Cloudy,D. Bellino,2,1,3,Changeup,81.2,0,0,1,1,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+44,White Sox,AL Central,D. Keuchel,Left,Away,Guaranteed Rate Field,Night,79,Partly Cloudy,D. Bellino,2,1,4,Cutter,84.1,0,0,2,1,Ground out,Left field,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+44,White Sox,AL Central,D. Keuchel,Left,Away,Guaranteed Rate Field,Night,79,Partly Cloudy,D. Bellino,4,2,1,Cutter,85.3,0,1,0,0,Single,Right field,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+44,White Sox,AL Central,D. Keuchel,Left,Away,Guaranteed Rate Field,Night,79,Partly Cloudy,D. Bellino,6,3,1,Changeup,80.2,0,0,0,0,Swinging strike,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+44,White Sox,AL Central,D. Keuchel,Left,Away,Guaranteed Rate Field,Night,79,Partly Cloudy,D. Bellino,6,3,2,Changeup,80.9,1,1,0,1,Foul,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+44,White Sox,AL Central,D. Keuchel,Left,Away,Guaranteed Rate Field,Night,79,Partly Cloudy,D. Bellino,6,3,3,Sinker,88.3,0,0,0,2,Foul,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+44,White Sox,AL Central,D. Keuchel,Left,Away,Guaranteed Rate Field,Night,79,Partly Cloudy,D. Bellino,6,3,4,Cutter,86.5,0,0,0,2,Swinging strike out,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+44,White Sox,AL Central,D. Keuchel,Left,Away,Guaranteed Rate Field,Night,79,Partly Cloudy,D. Bellino,8,4,1,Fastball,95.6,0,0,0,0,Ball,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+44,White Sox,AL Central,D. Keuchel,Left,Away,Guaranteed Rate Field,Night,79,Partly Cloudy,D. Bellino,8,4,2,Fastball,97.5,1,1,1,0,Ground out,Right field,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+45,Red Sox,AL East,G. Richards,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,1,1,1,Curveball,82.2,0,0,0,0,Ball,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Red Sox,AL East,G. Richards,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,1,1,2,Slider,90.5,0,0,1,0,Swinging strike,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+45,Red Sox,AL East,G. Richards,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,1,1,3,Fastball,94.6,0,0,1,1,Foul,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+45,Red Sox,AL East,G. Richards,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,1,1,4,Curveball,81.8,1,1,1,2,Foul,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+45,Red Sox,AL East,G. Richards,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,1,1,5,Slider,90.1,1,1,1,2,Foul,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+45,Red Sox,AL East,G. Richards,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,1,1,6,Fastball,96.4,1,1,1,2,Single,Right field,1,0,0,0,1,1,1,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+45,Red Sox,AL East,G. Richards,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,2,2,1,Slider,88.6,0,2,0,0,Called Strike,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+45,Red Sox,AL East,G. Richards,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,2,2,2,Slider,89.1,1,3,0,1,Single,Left field,0,1,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+45,Red Sox,AL East,G. Richards,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,4,3,1,Fastball,93.6,0,2,0,0,Fly Out,Right field,0,0,1,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+45,Red Sox,AL East,H. Sawamura,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,6,4,1,Fastball,95.8,0,0,0,0,Ball,,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+45,Red Sox,AL East,H. Sawamura,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,6,4,2,Fastball,96.7,1,1,1,0,Ball,,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+45,Red Sox,AL East,H. Sawamura,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,6,4,3,Splitter,92.2,0,0,2,0,Ball,,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+45,Red Sox,AL East,H. Sawamura,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,6,4,4,Fastball,96.1,2,2,3,0,Called strike,,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+45,Red Sox,AL East,H. Sawamura,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,6,4,5,Fastball,96.4,3,3,3,1,Ground out,Left field,0,0,0,1,1,1,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+45,Red Sox,AL East,G. Whitlock,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,9,5,1,Sinker,95.1,0,0,0,0,Foul,,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+45,Red Sox,AL East,G. Whitlock,Right,Away,Fenway Park,Night,64,Overcast,J. Meals,9,5,2,Changeup,83.2,0,0,0,1,Reach on Error,,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,1,1,1,Fastball,94.4,0,0,0,0,Ball,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,1,1,2,Knuckle Curve,78.5,0,0,1,0,Foul,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,1,1,3,Fastball,93.9,1,1,1,1,Swinging strike,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,1,1,4,Fastball,94.2,2,2,1,2,Foul,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,1,1,5,Slider,85.8,0,0,1,2,Foul,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,1,1,6,Fastball,94.5,3,3,1,2,Foul,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,1,1,7,Knuckle Curve,78.9,1,1,1,2,Swinging strike out,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,3,2,1,Knuckle Curve,79.1,0,2,0,0,Ball,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,3,2,2,Fastball,95.8,0,4,1,0,Foul,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,3,2,3,Fastball,95.7,1,5,1,1,Called strike,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,3,2,4,Knuckle Curve,79.3,1,3,1,2,Ball,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,3,2,5,Knuckle Curve,80.1,2,4,2,2,Ball,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,3,2,6,Knuckle Curve,79.4,3,5,3,2,Swinging strike out,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,5,3,1,Fastball,94.9,0,6,0,0,Ball,,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,5,3,2,Fastball,94.1,1,7,1,0,Ball,,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,5,3,3,Fastball,94.5,2,8,2,0,Foul,,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,5,3,4,Knuckle Curve,77.2,0,6,2,1,Swinging strike,,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,5,3,5,Knuckle Curve,78.8,1,7,2,2,Foul,,0,0,1,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,5,3,6,Fastball,94.3,3,9,2,2,Ball,,0,0,1,0,1,1,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+46,Red Sox,AL East,N. Pivetta,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,5,3,7,Knuckle Curve,77.3,2,8,3,2,Ground out,Left field,0,0,1,0,1,1,1,1,0,0,1,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+46,Red Sox,AL East,B. Brennan,Right,Away,Fenway Park,Mid-Afternoon,69,Partly Cloudy,V. Carapazza,7,4,1,Sinker,91.8,0,0,0,0,Fly Out,Centre field,0,0,0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+47,Red Sox,AL East,M. Perez,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,1,1,1,Cutter,90.5,0,0,0,0,Ball,,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Red Sox,AL East,M. Perez,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,1,1,2,Changeup,85.3,0,0,1,0,Home Run,Left field,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+47,Red Sox,AL East,R. Weber,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,2,2,1,Curveball,72.7,0,0,0,0,Foul,,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+47,Red Sox,AL East,R. Weber,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,2,2,2,Sinker,88.9,0,0,0,1,Ground out,Right field,0,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+47,Red Sox,AL East,R. Weber,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,4,3,1,Curveball,78.8,0,1,0,0,Called strike,,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+47,Red Sox,AL East,R. Weber,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,4,3,2,Sinker,89.9,0,1,0,1,Ball,,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+47,Red Sox,AL East,R. Weber,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,4,3,3,Sinker,88.9,1,2,1,1,Ball,,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+47,Red Sox,AL East,R. Weber,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,4,3,4,Curveball,77.6,1,2,2,1,Home Run,Centre field,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+47,Red Sox,AL East,R. Weber,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,5,4,1,Curveball,78.5,0,3,0,0,Ball,,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+47,Red Sox,AL East,R. Weber,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,5,4,2,Sinker,88.3,0,3,1,0,Swinging strike,,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+47,Red Sox,AL East,R. Weber,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,5,4,3,Sinker,88,1,4,1,1,Swinging strike,,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+47,Red Sox,AL East,R. Weber,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,5,4,4,Sinker,88.9,2,5,1,2,Swinging strike out,,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+47,Red Sox,AL East,R. Weber,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,7,5,1,Curveball,77.5,0,4,0,0,Ball,,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+47,Red Sox,AL East,R. Weber,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,7,5,2,Curveball,76.7,1,5,1,0,Double,Left field,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+47,Red Sox,AL East,C. Arroyo,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,9,6,1,Fastball,72.8,0,0,0,0,Ball,,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+47,Red Sox,AL East,C. Arroyo,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,9,6,2,Fastball,73.8,1,1,1,0,Ball,,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+47,Red Sox,AL East,C. Arroyo,Right,Away,Fenway Park,Afternoon,83,Partly Cloudy,J. Visconti,9,6,3,Fastball,76.3,2,2,2,0,Fly Out,Centre field,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+48,Red Sox,AL East,N. Eovaldi,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,2,1,1,Fastball,95.9,0,0,0,0,Called Strike,,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+48,Red Sox,AL East,N. Eovaldi,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,2,1,2,Fastball,97.9,1,1,0,1,Ball,,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+48,Red Sox,AL East,N. Eovaldi,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,2,1,3,Slider,88.1,0,0,1,1,Ball,,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+48,Red Sox,AL East,N. Eovaldi,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,2,1,4,Cutter,94.4,0,0,2,1,Line out,Left field,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+48,Red Sox,AL East,N. Eovaldi,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,4,2,1,Fastball,97.3,0,2,0,0,Foul,,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+48,Red Sox,AL East,N. Eovaldi,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,4,2,2,Fastball,97,1,3,0,1,Ball,,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+48,Red Sox,AL East,N. Eovaldi,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,4,2,3,Slider,88.5,0,1,1,1,Ball,,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+48,Red Sox,AL East,N. Eovaldi,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,4,2,4,Splitter,85.8,0,0,2,1,Ball,,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+48,Red Sox,AL East,N. Eovaldi,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,4,2,5,Cutter,94.3,0,1,3,1,Walk,,0,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+48,Red Sox,AL East,N. Eovaldi,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,7,3,1,Slider,87.2,0,2,0,0,Swinging strike,,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+48,Red Sox,AL East,N. Eovaldi,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,7,3,2,Fastball,97.3,0,4,0,1,Single,Right field,0,0,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0
+48,Red Sox,AL East,M. Barnes,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,9,4,1,Fastball,98.1,0,0,0,0,Swinging strike,,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+48,Red Sox,AL East,M. Barnes,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,9,4,2,Fastball,98,1,1,0,1,Foul,,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+48,Red Sox,AL East,M. Barnes,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,9,4,3,Fastball,96.4,2,2,0,2,Foul,,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+48,Red Sox,AL East,M. Barnes,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,9,4,4,Knuckle Curve,87.4,0,0,0,2,Ball,,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+48,Red Sox,AL East,M. Barnes,Right,Away,Fenway Park,Night,63,Overcast,R. Ortiz,9,4,5,Knuckle Curve,97.2,1,1,1,2,Swinging strike out,,0,0,0,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+49,Yankees,AL East,J. Montgomery,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,1,1,1,Sinker,93.3,0,0,0,0,Ball,,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Yankees,AL East,J. Montgomery,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,1,1,2,Sinker,93.1,1,1,1,0,Called Strike,,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+49,Yankees,AL East,J. Montgomery,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,1,1,3,Curveball,80.4,0,0,1,1,Fly Out,Centre field,1,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+49,Yankees,AL East,J. Montgomery,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,3,2,1,Changeup,83.8,0,0,0,0,Foul,,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+49,Yankees,AL East,J. Montgomery,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,3,2,2,Fastball,94.2,0,0,0,1,Ball,,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+49,Yankees,AL East,J. Montgomery,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,3,2,3,Changeup,83.6,1,1,1,1,Foul,,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+49,Yankees,AL East,J. Montgomery,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,3,2,4,Fastball,94,1,1,1,2,Ball,,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+49,Yankees,AL East,J. Montgomery,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,3,2,5,Curveball,81.6,0,1,2,2,Ball,,0,1,0,0,1,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+49,Yankees,AL East,J. Montgomery,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,3,2,6,Sinker,93.2,0,3,3,2,Ground out,Left field,0,1,0,0,1,1,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+49,Yankees,AL East,J. Montgomery,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,5,3,1,Curveball,78.7,0,2,0,0,Ball,,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+49,Yankees,AL East,J. Montgomery,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,5,3,2,Sinker,91.7,0,4,1,0,Fly Out,Right field,0,0,1,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+49,Yankees,AL East,J. Loaisiga,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,7,4,1,Sinker,98.8,0,0,0,0,Called Strike,,0,0,0,1,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+49,Yankees,AL East,J. Loaisiga,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,7,4,2,Curveball,87.7,0,0,0,1,Ball,,0,0,0,1,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+49,Yankees,AL East,J. Loaisiga,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,7,4,3,Sinker,97.7,1,1,1,1,Ball,,0,0,0,1,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+49,Yankees,AL East,J. Loaisiga,Right,Home,Sahlen Field,Night,71,Clear,A. Hamari,7,4,4,Sinker,98.8,2,2,2,1,Single,Centre field,0,0,0,1,1,1,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+49,Yankees,AL East,A. Chapman,Left,Home,Sahlen Field,Night,71,Clear,A. Hamari,9,5,1,Splitter,88.5,0,0,0,0,Ball,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+49,Yankees,AL East,A. Chapman,Left,Home,Sahlen Field,Night,71,Clear,A. Hamari,9,5,2,Slider,86.3,0,0,1,0,Called Strike,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+49,Yankees,AL East,A. Chapman,Left,Home,Sahlen Field,Night,71,Clear,A. Hamari,9,5,3,Splitter,88.1,1,1,1,1,Swinging strike,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0
+49,Yankees,AL East,A. Chapman,Left,Home,Sahlen Field,Night,71,Clear,A. Hamari,9,5,4,Splitter,88.8,2,2,1,2,Swinging strike out,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+50,Yankees,AL East,G. Cole,Right,Home,Sahlen Field,Night,67,Partly Cloudy,C. Bucknor,1,1,1,Fastball,97.7,0,0,0,0,Foul,,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+50,Yankees,AL East,G. Cole,Right,Home,Sahlen Field,Night,67,Partly Cloudy,C. Bucknor,1,1,2,Fastball,98.9,1,1,0,1,Single,Centre field,1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+50,Yankees,AL East,G. Cole,Right,Home,Sahlen Field,Night,67,Partly Cloudy,C. Bucknor,4,2,1,Knuckle Curve,82.2,0,0,0,0,Foul,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+50,Yankees,AL East,G. Cole,Right,Home,Sahlen Field,Night,67,Partly Cloudy,C. Bucknor,4,2,2,Knuckle Curve,81.4,1,1,0,1,Called Strike,,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+50,Yankees,AL East,G. Cole,Right,Home,Sahlen Field,Night,67,Partly Cloudy,C. Bucknor,4,2,3,Fastball,96.5,0,2,0,2,Ground out,Left field,0,1,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+50,Yankees,AL East,G. Cole,Right,Home,Sahlen Field,Night,67,Partly Cloudy,C. Bucknor,6,3,1,Slider,89.4,0,0,0,0,Swinging strike,,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+50,Yankees,AL East,G. Cole,Right,Home,Sahlen Field,Night,67,Partly Cloudy,C. Bucknor,6,3,2,Changeup,90.8,0,0,0,1,Reach on Error,Left field,0,0,1,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+50,Yankees,AL East,A. Chapman,Left,Home,Sahlen Field,Night,67,Partly Cloudy,C. Bucknor,9,4,1,Fastball,98.9,0,0,0,0,Ball,,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+50,Yankees,AL East,A. Chapman,Left,Home,Sahlen Field,Night,67,Partly Cloudy,C. Bucknor,9,4,2,Fastball,99.1,1,1,1,0,Double,Right field,0,0,0,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+51,Orioles,AL East,M. Harvey,Right,Away,Camden Yards,Afternoon,87,Cloudy,J. Meals,1,1,1,Fastball,96.5,0,0,0,0,Called Strike,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Orioles,AL East,M. Harvey,Right,Away,Camden Yards,Afternoon,87,Cloudy,J. Meals,1,1,2,Fastball,96.4,1,1,0,1,Ball,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+51,Orioles,AL East,M. Harvey,Right,Away,Camden Yards,Afternoon,87,Cloudy,J. Meals,1,1,3,Fastball,94.8,2,2,1,1,Single,Left field,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+51,Orioles,AL East,M. Harvey,Right,Away,Camden Yards,Afternoon,87,Cloudy,J. Meals,3,2,1,Fastball,95.2,0,3,0,0,Ground out,Right field,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+51,Orioles,AL East,M. Harvey,Right,Away,Camden Yards,Afternoon,87,Cloudy,J. Meals,5,3,1,Fastball,92.4,0,4,0,0,Single,Centre field,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+51,Orioles,AL East,A. Plutko,Right,Away,Camden Yards,Afternoon,87,Cloudy,J. Meals,7,4,1,Curveball,75.4,0,0,0,0,Ball,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+51,Orioles,AL East,A. Plutko,Right,Away,Camden Yards,Afternoon,87,Cloudy,J. Meals,7,4,2,Fastball,90.9,0,0,1,0,Ball,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+51,Orioles,AL East,A. Plutko,Right,Away,Camden Yards,Afternoon,87,Cloudy,J. Meals,7,4,3,Cutter,86.5,0,0,2,0,Called Strike,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+51,Orioles,AL East,A. Plutko,Right,Away,Camden Yards,Afternoon,87,Cloudy,J. Meals,7,4,4,Cutter,96.6,1,1,2,1,Swinging strike,,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+51,Orioles,AL East,A. Plutko,Right,Away,Camden Yards,Afternoon,87,Cloudy,J. Meals,7,4,5,Fastball,91.3,1,1,2,2,Fly Out,Centre field,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+51,Orioles,AL East,R. Valdez,Right,Away,Camden Yards,Afternoon,87,Cloudy,J. Meals,8,5,1,Slider,78.1,0,0,0,0,Called strike,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+51,Orioles,AL East,R. Valdez,Right,Away,Camden Yards,Afternoon,87,Cloudy,J. Meals,8,5,2,Slider,78.5,1,1,0,1,Ball,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+51,Orioles,AL East,R. Valdez,Right,Away,Camden Yards,Afternoon,87,Cloudy,J. Meals,8,5,3,Changeup,77.3,0,0,1,1,Ground out,Left field,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+52,Marlins,NL East,S. Alcantara,Right,Away,LoanDepot Park,Night,74,Roof Closed,L. Diaz,2,1,1,Sinker,96,0,0,0,0,Ball,,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Marlins,NL East,S. Alcantara,Right,Away,LoanDepot Park,Night,74,Roof Closed,L. Diaz,2,1,2,Slider,88.4,0,0,1,0,Ball,,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+52,Marlins,NL East,S. Alcantara,Right,Away,LoanDepot Park,Night,74,Roof Closed,L. Diaz,2,1,3,Slider,88,1,1,2,0,Foul,,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+52,Marlins,NL East,S. Alcantara,Right,Away,LoanDepot Park,Night,74,Roof Closed,L. Diaz,2,1,4,Sinker,97.3,1,1,2,1,Foul,,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+52,Marlins,NL East,S. Alcantara,Right,Away,LoanDepot Park,Night,74,Roof Closed,L. Diaz,2,1,5,Changeup,92.1,0,0,2,2,Ball,,1,0,0,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+52,Marlins,NL East,S. Alcantara,Right,Away,LoanDepot Park,Night,74,Roof Closed,L. Diaz,2,1,6,Changeup,91.9,1,1,3,2,Swinging strike out,,1,0,0,0,1,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+52,Marlins,NL East,S. Alcantara,Right,Away,LoanDepot Park,Night,74,Roof Closed,L. Diaz,4,2,1,Slider,91,0,2,0,0,Ball,,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+52,Marlins,NL East,S. Alcantara,Right,Away,LoanDepot Park,Night,74,Roof Closed,L. Diaz,4,2,2,Slider,91,1,3,1,0,Swinging strike,,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+52,Marlins,NL East,S. Alcantara,Right,Away,LoanDepot Park,Night,74,Roof Closed,L. Diaz,4,2,3,Sinker,98.6,0,2,1,1,Ball,,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+52,Marlins,NL East,S. Alcantara,Right,Away,LoanDepot Park,Night,74,Roof Closed,L. Diaz,4,2,4,Changeup,91.2,0,2,2,1,Double,Centre field,0,1,0,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+52,Marlins,NL East,S. Alcantara,Right,Away,LoanDepot Park,Night,74,Roof Closed,L. Diaz,6,3,1,Sinker,98.1,0,3,0,0,Ground out,Left field,0,0,1,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+52,Marlins,NL East,S. Alcantara,Right,Away,LoanDepot Park,Night,74,Roof Closed,L. Diaz,8,4,1,Sinker,98.8,0,4,0,0,Called strike,,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+52,Marlins,NL East,S. Alcantara,Right,Away,LoanDepot Park,Night,74,Roof Closed,L. Diaz,8,4,2,Sinker,98.4,1,5,0,1,Foul,,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+52,Marlins,NL East,S. Alcantara,Right,Away,LoanDepot Park,Night,74,Roof Closed,L. Diaz,8,4,3,Slider,92.6,0,4,0,2,Ground out,Right field,0,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+53,Marlins,NL East,T. Rogers,Left,Away,LoanDepot Park,Night,72,Roof Closed,M. Estabrooks,1,1,1,Fastball,95.1,0,0,0,0,Swinging strike,,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,Marlins,NL East,T. Rogers,Left,Away,LoanDepot Park,Night,72,Roof Closed,M. Estabrooks,1,1,2,Fastball,94.3,1,1,0,1,Double,Right field,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+53,Marlins,NL East,T. Rogers,Left,Away,LoanDepot Park,Night,72,Roof Closed,M. Estabrooks,3,2,1,Slider,82.3,0,0,0,0,Ground out,Centre field,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+53,Marlins,NL East,T. Rogers,Left,Away,LoanDepot Park,Night,72,Roof Closed,M. Estabrooks,5,3,1,Slider,82.1,0,1,0,0,Swinging strike,,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+53,Marlins,NL East,T. Rogers,Left,Away,LoanDepot Park,Night,72,Roof Closed,M. Estabrooks,5,3,2,Fastball,93.2,0,2,0,1,Swinging strike,,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+53,Marlins,NL East,T. Rogers,Left,Away,LoanDepot Park,Night,72,Roof Closed,M. Estabrooks,5,3,3,Changeup,83.8,0,0,0,2,Foul,,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+53,Marlins,NL East,T. Rogers,Left,Away,LoanDepot Park,Night,72,Roof Closed,M. Estabrooks,5,3,4,Fastball,94.5,0,3,0,2,Swinging strike out,,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+53,Marlins,NL East,A. Bass,Right,Away,LoanDepot Park,Night,72,Roof Closed,M. Estabrooks,7,4,1,Slider,85.9,0,0,0,0,Swinging strike,,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+53,Marlins,NL East,A. Bass,Right,Away,LoanDepot Park,Night,72,Roof Closed,M. Estabrooks,7,4,2,Slider,95.3,1,1,0,1,Swinging strike,,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+53,Marlins,NL East,A. Bass,Right,Away,LoanDepot Park,Night,72,Roof Closed,M. Estabrooks,7,4,3,Slider,86.7,2,2,0,2,Ball,,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+53,Marlins,NL East,A. Bass,Right,Away,LoanDepot Park,Night,72,Roof Closed,M. Estabrooks,7,4,4,Slider,87.4,3,3,1,2,Ball,,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+53,Marlins,NL East,A. Bass,Right,Away,LoanDepot Park,Night,72,Roof Closed,M. Estabrooks,7,4,5,Slider,84.3,4,4,2,2,Swinging strike out,,0,0,0,1,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+54,Orioles,AL East,D. Kremer,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,1,1,1,Cutter,86.9,0,0,0,0,Ball,,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Orioles,AL East,D. Kremer,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,1,1,2,Fastball,92.5,0,0,1,0,Foul,,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+54,Orioles,AL East,D. Kremer,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,1,1,3,Fastball,93.2,1,1,1,1,Ball,,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+54,Orioles,AL East,D. Kremer,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,1,1,4,Changeup,81.6,0,0,2,1,Single,Left field,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+54,Orioles,AL East,A. Plutko,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,2,2,1,Slider,82.9,0,0,0,0,Foul,,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+54,Orioles,AL East,A. Plutko,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,2,2,2,Fastball,92.3,0,0,0,1,Swinging strike,,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+54,Orioles,AL East,A. Plutko,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,2,2,3,Fastball,91.5,1,1,0,2,Foul,,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+54,Orioles,AL East,A. Plutko,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,2,2,4,Fastball,92.4,2,2,0,2,Foul,,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+54,Orioles,AL East,A. Plutko,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,2,2,5,Fastball,92.6,3,3,0,2,Foul,,0,1,0,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+54,Orioles,AL East,A. Plutko,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,2,2,6,Cutter,89,0,0,0,2,Ball,,0,1,0,0,1,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+54,Orioles,AL East,A. Plutko,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,2,2,7,Fastball,92.5,4,4,1,2,Ball,,0,1,0,0,1,1,1,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+54,Orioles,AL East,A. Plutko,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,2,2,8,Cutter,88.6,1,1,2,2,Double,Left field,0,1,0,0,1,1,1,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+54,Orioles,AL East,T. Lakins,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,4,3,1,Curveball,77.2,0,0,0,0,Ground out,Left field,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+54,Orioles,AL East,T. Lakins,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,6,4,1,Curveball,82.3,0,1,0,0,Called Strike,,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+54,Orioles,AL East,T. Lakins,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,6,4,2,Fastball,94.7,0,0,0,1,Ball,,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+54,Orioles,AL East,T. Lakins,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,6,4,3,Cutter,92.9,0,0,1,1,Swinging strike,,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+54,Orioles,AL East,T. Lakins,Right,Home,Sahlen Field,Night,80,Partly Cloudy,N. Lentz,6,4,4,Curveball,83.3,1,2,1,2,Swinging strike out,,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+55,Orioles,AL East,M. Harvey,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,1,1,1,Sinker,93.8,0,0,0,0,Ball,,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Orioles,AL East,M. Harvey,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,1,1,2,Slider,89.2,0,0,1,0,Swinging strike,,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+55,Orioles,AL East,M. Harvey,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,1,1,3,Fastball,94,0,0,1,1,Foul,,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+55,Orioles,AL East,M. Harvey,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,1,1,4,Curveball,81.2,0,0,1,2,Ball,,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+55,Orioles,AL East,M. Harvey,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,1,1,5,Slider,87.5,1,1,2,2,Ball,,1,0,0,0,1,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+55,Orioles,AL East,M. Harvey,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,1,1,6,Slider,87.1,2,2,3,2,Ground out,Left field,1,0,0,0,1,1,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+55,Orioles,AL East,M. Harvey,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,3,2,1,Curveball,83.9,0,1,0,0,Ball,,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+55,Orioles,AL East,M. Harvey,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,3,2,2,Slider,89.5,0,3,1,0,Ground out,Right field,0,1,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+55,Orioles,AL East,M. Harvey,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,6,3,1,Curveball,80.5,0,2,0,0,Ball,,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+55,Orioles,AL East,M. Harvey,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,6,3,2,Slider,87.4,0,3,1,0,Swinging strike,,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+55,Orioles,AL East,M. Harvey,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,6,3,3,Fastball,92.3,0,1,1,1,Ball,,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+55,Orioles,AL East,M. Harvey,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,6,3,4,Fastball,92.2,1,2,2,1,Ground out,Centre field,0,0,1,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+55,Orioles,AL East,D. Tate,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,7,4,1,Sinker,96.7,0,0,0,0,Called Strike,,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+55,Orioles,AL East,D. Tate,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,7,4,2,Sinker,97.9,1,1,0,1,Called Strike,,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+55,Orioles,AL East,D. Tate,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,7,4,3,Sinker,97.3,2,2,0,2,Ball,,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+55,Orioles,AL East,D. Tate,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,7,4,4,Slider,88.1,0,0,1,2,Swinging strike out,,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+55,Orioles,AL East,C. Sulser,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,10,5,1,Fastball,94.6,0,0,0,0,Swinging strike,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+55,Orioles,AL East,C. Sulser,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,10,5,2,Fastball,95.3,1,1,0,1,Foul,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+55,Orioles,AL East,C. Sulser,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,10,5,3,Fastball,95.1,2,2,0,2,Foul,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+55,Orioles,AL East,C. Sulser,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,10,5,4,Fastball,95.2,3,3,0,2,Foul,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+55,Orioles,AL East,C. Sulser,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,10,5,5,Slider,88.8,0,0,0,2,Ball,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+55,Orioles,AL East,C. Sulser,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,10,5,6,Changeup,85.8,0,0,1,2,Ball,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+55,Orioles,AL East,C. Sulser,Right,Home,Sahlen Field,Night,71,Cloudy,E. Moscoso,10,5,7,Changeup,86,1,1,2,2,Swinging strike out,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+56,Orioles,AL East,K. Akin,Left,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,2,1,1,Slider,80.3,0,0,0,0,Ball,,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,Orioles,AL East,K. Akin,Left,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,2,1,2,Changeup,81.4,0,0,1,0,Ball,,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+56,Orioles,AL East,K. Akin,Left,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,2,1,3,Fastball,91.3,0,0,2,0,Foul,,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+56,Orioles,AL East,K. Akin,Left,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,2,1,4,Fastball,92,1,1,2,1,Swinging strike,,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+56,Orioles,AL East,K. Akin,Left,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,2,1,5,Fastball,92.2,2,2,2,2,Swinging strike out,,1,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+56,Orioles,AL East,K. Akin,Left,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,3,2,1,Fastball,91.1,0,3,0,0,Foul,,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+56,Orioles,AL East,K. Akin,Left,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,3,2,2,Fastball,92.6,1,4,0,1,Ball,,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+56,Orioles,AL East,K. Akin,Left,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,3,2,3,Slider,85.6,0,0,1,1,Swinging strike,,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+56,Orioles,AL East,K. Akin,Left,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,3,2,4,Fastball,93,2,5,1,2,Home Run,Centre field,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+56,Orioles,AL East,K .Wade,Right,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,5,3,1,Sinker,90.5,0,0,0,0,Called Strike,,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+56,Orioles,AL East,K .Wade,Right,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,5,3,2,Cutter,87.7,0,0,0,1,Fly Out,Right field,0,0,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+56,Orioles,AL East,K .Wade,Right,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,6,4,1,Sinker,90.1,0,1,0,0,Ball,,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+56,Orioles,AL East,K .Wade,Right,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,6,4,2,Cutter,87.8,0,1,1,0,Foul,,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+56,Orioles,AL East,K .Wade,Right,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,6,4,3,Sinker,89.7,1,2,1,1,Ball,,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+56,Orioles,AL East,K .Wade,Right,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,6,4,4,Changeup,82.7,0,0,2,1,Single,Left field,0,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+56,Orioles,AL East,T. Wells,Right,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,8,5,1,Curveball,73.8,0,0,0,0,Swinging strike,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+56,Orioles,AL East,T. Wells,Right,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,8,5,2,Changeup,83.5,0,0,0,1,Foul,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+56,Orioles,AL East,T. Wells,Right,Home,Sahlen Field,Mid-Afternoon,79,Cloudy,J. West,8,5,3,Fastball,89.2,0,0,0,2,Line out,Left field,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+57,Orioles,AL East,J. Lopez,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,2,1,1,Fastball,93.4,0,0,0,0,Called Strike,,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,Orioles,AL East,J. Lopez,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,2,1,2,Knuckle Curve,82.1,0,0,0,1,Ball,,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+57,Orioles,AL East,J. Lopez,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,2,1,3,Slider,84.2,0,0,1,1,Ball,,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+57,Orioles,AL East,J. Lopez,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,2,1,4,Fastball,95,1,1,2,1,Ball,,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+57,Orioles,AL East,J. Lopez,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,2,1,5,Fastball,96.3,2,2,3,1,Swinging strike,,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+57,Orioles,AL East,J. Lopez,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,2,1,6,Sinker,96.4,0,0,3,2,Single,Right field,1,0,0,0,1,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+57,Orioles,AL East,J. Lopez,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,3,2,1,Sinker,96.1,0,1,0,0,Ball,,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+57,Orioles,AL East,J. Lopez,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,3,2,2,Sinker,96.2,1,2,1,0,Called Strike,,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+57,Orioles,AL East,J. Lopez,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,3,2,3,Sinker,96,2,3,1,1,Foul,,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+57,Orioles,AL East,J. Lopez,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,3,2,4,Fastball,96.2,0,3,1,2,Swinging strike out,,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+57,Orioles,AL East,J. Lopez,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,5,3,1,Sinker,91,0,4,0,0,Ball,,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+57,Orioles,AL East,J. Lopez,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,5,3,2,Knuckle Curve,77.5,0,1,1,0,Swinging strike,,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+57,Orioles,AL East,J. Lopez,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,5,3,3,Sinker,91.7,1,5,1,1,Double,,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+57,Orioles,AL East,D. Tate,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,7,4,1,Sinker,98,0,0,0,0,Ball,,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+57,Orioles,AL East,D. Tate,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,7,4,2,Sinker,96.2,1,1,1,0,Called strike,,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+57,Orioles,AL East,D. Tate,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,7,4,3,Slider,86.6,0,0,1,1,Swinging strike,,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+57,Orioles,AL East,D. Tate,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,7,4,4,Sinker,97.6,2,2,1,2,Ball,,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+57,Orioles,AL East,D. Tate,Right,Home,Sahlen Field,Afternoon,81,Cloudy,B. Dreckman,7,4,5,Sinker,97.7,3,3,2,2,Swinging strike out,,0,0,0,1,1,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+58,Mariners,AL West,C. Flexen,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,1,1,1,Fastball,94.3,0,0,0,0,Single,Centre field,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,Mariners,AL West,C. Flexen,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,3,2,1,Curveball,78.7,0,0,0,0,Line out,Left field,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+58,Mariners,AL West,C. Flexen,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,5,3,1,Fastball,91.7,0,1,0,0,Called strike,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+58,Mariners,AL West,C. Flexen,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,5,3,2,Curveball,78.2,0,1,0,1,Foul,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+58,Mariners,AL West,C. Flexen,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,5,3,3,Curveball,78.4,1,2,0,2,Ball,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+58,Mariners,AL West,C. Flexen,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,5,3,4,Cutter,88.7,0,0,1,2,Foul,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+58,Mariners,AL West,C. Flexen,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,5,3,5,Cutter,86.2,1,1,1,2,Ball,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+58,Mariners,AL West,C. Flexen,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,5,3,6,Fastball,93.1,1,2,2,2,Ball,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+58,Mariners,AL West,C. Flexen,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,5,3,7,Cutter,90.8,2,2,3,2,Walk,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+58,Mariners,AL West,R. Montero,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,6,4,1,Slider,87.6,0,0,0,0,Swinging strike,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+58,Mariners,AL West,R. Montero,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,6,4,2,Sinker,97.7,0,0,0,1,Ball,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+58,Mariners,AL West,R. Montero,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,6,4,3,Sinker,97.3,1,1,1,1,Ball,,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+58,Mariners,AL West,R. Montero,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,6,4,4,Sinker,96.9,2,2,2,1,Single,Centre field,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+58,Mariners,AL West,Y. Ramirez,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,8,5,1,Fastball,95.1,0,0,0,0,Called Strike,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+58,Mariners,AL West,Y. Ramirez,Right,Home,Sahlen Field,Night,81,Partly Cloudy,D. Bellino,8,5,2,Fastball,95.3,1,1,0,1,Ground out,Left field,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+59,Mariners,AL West,J. Sheffield,Left,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,1,1,1,Slider,81.9,0,0,0,0,Swinging strike,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,Mariners,AL West,J. Sheffield,Left,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,1,1,2,Changeup,85.1,0,0,0,1,Ball,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+59,Mariners,AL West,J. Sheffield,Left,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,1,1,3,Slider,82.8,1,1,1,1,Foul,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+59,Mariners,AL West,J. Sheffield,Left,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,1,1,4,Slider,83.3,2,2,1,2,Line out,Left field,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+59,Mariners,AL West,J. Sheffield,Left,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,3,2,1,Slider,80.5,0,3,0,0,Swinging strike,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+59,Mariners,AL West,J. Sheffield,Left,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,3,2,2,Slider,82.8,1,4,0,1,Foul,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+59,Mariners,AL West,J. Sheffield,Left,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,3,2,3,Slider,82.4,2,5,0,2,Foul,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+59,Mariners,AL West,J. Sheffield,Left,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,3,2,4,Sinker,93.9,0,0,0,2,Ball,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+59,Mariners,AL West,J. Sheffield,Left,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,3,2,5,Slider,82.5,3,6,1,2,Ball,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+59,Mariners,AL West,J. Sheffield,Left,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,3,2,6,Changeup,88,0,1,2,2,Called Strike out,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+59,Mariners,AL West,J. Chargois,Right,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,5,3,1,Slider,87.1,0,0,0,0,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+59,Mariners,AL West,J. Chargois,Right,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,5,3,2,Sinker,96.5,0,0,1,0,Ball,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+59,Mariners,AL West,J. Chargois,Right,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,5,3,3,Fastball,96.1,0,0,2,0,Fly Out,Right field,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+59,Mariners,AL West,P. Sewald,Right,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,6,4,1,Fastball,93.6,0,0,0,0,Foul,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+59,Mariners,AL West,P. Sewald,Right,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,6,4,2,Slider,82.9,0,0,0,1,Ball,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+59,Mariners,AL West,P. Sewald,Right,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,6,4,3,Fastball,93.9,1,1,1,1,Ball,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+59,Mariners,AL West,P. Sewald,Right,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,6,4,4,Slider,82.2,1,1,2,1,Line out,Left field,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+59,Mariners,AL West,K. Graveman,Right,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,9,5,1,Fastball,95.2,0,0,0,0,Called Strike,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+59,Mariners,AL West,K. Graveman,Right,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,9,5,2,Slider,88.1,0,0,0,1,Swinging strike,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+59,Mariners,AL West,K. Graveman,Right,Home,Sahlen Field,Night,75,Cloudy,D. Rackley,9,5,3,Slider,88.7,1,1,0,2,Ground out,Right field,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
